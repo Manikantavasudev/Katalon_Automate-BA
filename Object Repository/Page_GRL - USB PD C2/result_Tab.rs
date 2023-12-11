@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>result_Tab</name>
+   <tag></tag>
+   <elementGuidId>bbe2fb31-1457-48bf-9a5c-dbf6c439bb89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt=&quot;Results&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Results&quot;]</value>
+      <webElementGuid>32aa9130-22fa-427a-b61b-62ff7780295c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

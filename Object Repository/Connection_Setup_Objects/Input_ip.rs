@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_ip</name>
+   <tag></tag>
+   <elementGuidId>08aa7b67-8aed-438a-be4e-eae36e9945de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@class=&quot;rc-select-search__field&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@class=&quot;rc-select-search__field&quot;]</value>
+      <webElementGuid>90067995-36ab-44a4-89e6-d19d1d5ee180</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

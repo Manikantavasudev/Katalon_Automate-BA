@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_cabel_selection_dropdown_icon</name>
+   <tag></tag>
+   <elementGuidId>d03367e4-ad6e-42c5-b0fe-d24aec12217a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='pcPort1CableSelectionComboBox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='pcPort1CableSelectionComboBox']</value>
+   </webElementProperties>
+</WebElementEntity>

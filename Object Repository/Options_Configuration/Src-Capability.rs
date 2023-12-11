@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Src-Capability</name>
+   <tag></tag>
+   <elementGuidId>5eb21169-e2c5-41f3-b80c-4bb45ed64a35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@value=&quot;Source_Capabilities&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@value=&quot;Source_Capabilities&quot;]</value>
+      <webElementGuid>c2a771e1-0558-482e-b8ca-10369fd6a897</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

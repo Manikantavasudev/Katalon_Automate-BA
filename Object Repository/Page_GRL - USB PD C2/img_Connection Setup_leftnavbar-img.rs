@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Connection Setup_leftnavbar-img</name>
+   <tag></tag>
+   <elementGuidId>e553ac90-0bf5-4fce-854f-32609e0d288f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left-toggle-group']/label[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0c073427-51db-4b6a-8180-4a7e08108160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/leftNavIcons/ProductCapability.png</value>
+      <webElementGuid>b6388f28-1f79-48a4-8fc4-9f4b599e7722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Product Capability</value>
+      <webElementGuid>b8d140d2-aaca-48bb-8408-70eac6ee440d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leftnavbar-img</value>
+      <webElementGuid>c9d9a612-f14b-4621-95cf-696a3ac215d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left-toggle-group&quot;)/label[@class=&quot;leftbarButtonGroup leftNavItems btn btn-primary&quot;]/div[@class=&quot;custom-setIcon&quot;]/img[@class=&quot;leftnavbar-img&quot;]</value>
+      <webElementGuid>79758cc8-f87b-4764-907f-c4b2c230bba4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left-toggle-group']/label[2]/div/img</value>
+      <webElementGuid>772dbb15-5dac-40aa-94ec-44ba85681229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Product Capability']</value>
+      <webElementGuid>609268c2-dda9-43e1-ad57-0ee2f9af458a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/div/img</value>
+      <webElementGuid>15bc0369-0297-45a5-b516-aaeea925e785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/leftNavIcons/ProductCapability.png' and @alt = 'Product Capability']</value>
+      <webElementGuid>fb59494b-8248-408d-b182-b5d258654a96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

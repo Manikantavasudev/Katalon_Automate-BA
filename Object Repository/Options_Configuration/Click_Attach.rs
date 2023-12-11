@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Attach</name>
+   <tag></tag>
+   <elementGuidId>de279069-dd60-4029-8a35-48a09e88200b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;opConfigControllerConfigureAttachBtn&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;opConfigControllerConfigureAttachBtn&quot;]</value>
+      <webElementGuid>4d9017d3-d25c-4b62-9947-d4f8a4d920f1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

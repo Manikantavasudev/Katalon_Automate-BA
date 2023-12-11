@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test Config</name>
+   <tag></tag>
+   <elementGuidId>dd1d4eed-52f8-4990-a397-d3d5988e4569</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left-toggle-group']/label[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f6fc639-af5b-4c6b-beff-0795245ac48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-setIcon</value>
+      <webElementGuid>50aa7566-e337-4c81-b736-c5de6e8b3cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Config</value>
+      <webElementGuid>4bce24e3-0a8a-49e5-a564-1191596b6e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left-toggle-group&quot;)/label[@class=&quot;leftbarButtonGroup leftNavItems btn btn-primary&quot;]/div[@class=&quot;custom-setIcon&quot;]</value>
+      <webElementGuid>3fb2715a-7b9f-4aab-ab53-6481371eb1a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left-toggle-group']/label[3]/div</value>
+      <webElementGuid>ee1ae94e-60aa-4bbf-9bbe-7e745d3b097b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Capability'])[1]/following::div[1]</value>
+      <webElementGuid>46030866-6fb3-4b90-a3a7-427383eca751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connection Setup'])[1]/following::div[2]</value>
+      <webElementGuid>766ed682-5d41-4169-a5b6-8243f66ccc31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/preceding::div[1]</value>
+      <webElementGuid>426fb3e6-7af3-4536-96db-9d45f8dad9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]/div</value>
+      <webElementGuid>3576068e-1286-44ef-8565-f8d4cfc3206e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Test Config' or . = 'Test Config')]</value>
+      <webElementGuid>ab012969-2673-4dc1-80a5-e03250156009</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

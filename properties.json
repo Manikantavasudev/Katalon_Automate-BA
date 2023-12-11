@@ -1,0 +1,39 @@
+
+{
+"user_config_data":{
+   "CS_C2_Static_IP_Address"                                : "192.168.255.1",
+   "CS_C2_Dynamic_IP_Address"                               : "192.168.255.1",
+   "CS_C2_Valid_IP_Address"                                 : "192.168.255.1",
+   "CS_C2_Serial_Number"                                    : "089.092.089.057.125.",
+   "CS_C2_Firmware_Version"                                 : "1.3.83 / 9.7 / 9.7",
+   "CS_C2_Tester_IP_Address_Info"                           : "192.168.4.232",
+   "PC_C2_Vif_File_Path"                                    : ["CA03__Chrontel__Two__3.0.xml","DRP33__DRPonly__Thinkpad__3.xml"],
+   "Python_exe_path" 										: "C:\\GRL\\C2AutomationBuild_0.9.1Version\\Python\\python.exe",
+   "Katalon_installation_path"								: "C:\\GRL\\C2AutomationBuild_0.9.1Version\\C2AutomationTest_Kat",
+   "PC_XML_File_Folder_Path"                                : "C:\\GRL\\C2AutomationBuild_0.9.1Version\\V.3.2.4.0",
+   "CS_C2_Test_Cable_Calibration_Status"                    : "Calibrated", 
+   "CS_C2_Invalid_IP_Address"                               : ["192.168.255", "192.168.255.aaa", "192"],
+   "PC_DRP_Dut_Vif_File_Path"                               :"DRP33__DRPonly__Thinkpad__3.xml",
+   "PC_Provider_Only_Dut_Vif_File_Path"                     :"P45__Belkin__QC4+__0.xml",
+   "PC_Cable_Dut_Vif_File_Path"                             :"CA03__Chrontel__Two__3.0.xml", 
+   "PC_Consumer_Only_Dut_Vif_File_Path"                     :"CN13_P1__Captive__Cablematters__0.xml",
+   "PC_C2_Project_Name"                                     : "C2_Katalon_Automation" ,
+   "PC_C2_Vif_File_Popup_Content"                           : "Selected test cable type: GRL-SPL Test Cable 1. Ensure same cable type is selected otherwise select the test cable type appropriately.",
+   "PC_USB_IF_Vif_Url"                                      :"https://www.usb.org/document-library/usb-vendor-info-file-generator" ,
+   "PC_Info_Port1_Dut_List"                                 :["Consumer Only", "Consumer Provider", "Provider Consumer", "Provider Only", "Dual Role Power[DRP]", "Cable", "Type C Only"],
+   "PC_Info_Port1_Cable_List"                               :["GRL-SPL Test Cable 1", "GRL-SPL Test Cable 2", "USB-C STD Test Cable 1", "USB-C STD Test Cable 2", "Captive Cable", "No Cable ( For Cable Testing )","GRL-SPL EPR Test Cable"],
+   "PC_Info_Port2_Cable_List"                               :["GRL-SPL Test Cable 1", "GRL-SPL Test Cable 2", "USB-C STD Test Cable 1", "USB-C STD Test Cable 2", "Captive Cable", "No Cable ( For Cable Testing )","GRL-SPL EPR Test Cable"],
+   "PC_Create_Vif_Dut_List"                                 :["Consumer Only","Provider Only","Cable","Dual Role Power"], 
+   "PC_Device_Data_Vif_File_Path"                           : "DRP16__DRPonly__Realtek__3.xml", 
+   "TC_Certification_Search_List"                           : ["SRC", "SNK", "4.1"],
+   "TC_Certification_Dropdown_List"                         :["All Spported Certifications", "Quick Charge 4 Certification", "Quick Charger 3.0 Certification", "USB Power Delivery Certification", "Non-PD Type-C Certification", "Thunderbolt 3 Certification", "DisplayPort Certification"],
+   "Katalon_Build_Version"                                  : "0.9.1",
+   "Get_Device_Data"                                        :["CN13_P1__Captive__Cablematters__0.xml","DRP34--Final__Complete-one__updated__Use.xml","P20__Portway__QC4+__0.xml","Vialabs-cable__CA11__3.0__0.xml"]
+   }
+   
+}
+
+
+ 
+
+ 

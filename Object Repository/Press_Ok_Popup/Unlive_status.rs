@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Unlive_status</name>
+   <tag></tag>
+   <elementGuidId>ec2bf2ea-8683-4ac7-bc43-f92e5130f610</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src=&quot;../../images/chartIcons/PNG/unlive.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src=&quot;../../images/chartIcons/PNG/unlive.png&quot;]</value>
+      <webElementGuid>bb2f0fbe-4f77-4c26-9142-ce8bad52f26d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

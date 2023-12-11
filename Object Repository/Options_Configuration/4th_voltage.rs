@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4th_voltage</name>
+   <tag></tag>
+   <elementGuidId>e7821649-e967-4039-b324-433ca60ff18c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@class=&quot;config-editor-textbox&quot;])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@class=&quot;config-editor-textbox&quot;])[8]</value>
+      <webElementGuid>07ee4223-f7ce-49d0-86bd-2944384aba19</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

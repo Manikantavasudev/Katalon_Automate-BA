@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Incomplete</name>
+   <tag></tag>
+   <elementGuidId>9b4f99c3-135d-4f04-89dd-f0bb2e7cbfa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt=&quot;incomplete-testCase&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;incomplete-testCase&quot;]</value>
+      <webElementGuid>5d898876-4489-4cff-a4e1-c1b83c000059</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

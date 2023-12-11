@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.This testcase will Verify Firmware Update Instructions link and it will take that  link screenshot 
+2.Screenshot will be append Automatically to the  Reports Folder</description>
+   <name>Test_2.1.7.2_Verify_Firmware_Update_Instructions_Link</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>338e18ce-a1c6-4b69-9929-23d2ed5d04a0</testCaseGuid>
+</TestCaseEntity>

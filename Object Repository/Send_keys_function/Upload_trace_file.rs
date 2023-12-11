@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload_trace_file</name>
+   <tag></tag>
+   <elementGuidId>cfff85a8-51b8-485d-a7cd-8664f502bb61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;chart_toolbar_load_button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;chart_toolbar_load_button&quot;]</value>
+      <webElementGuid>3a2b4c79-c6d9-4f0e-b96f-f8b49507dfd1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

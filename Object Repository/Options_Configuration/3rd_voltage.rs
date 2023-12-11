@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3rd_voltage</name>
+   <tag></tag>
+   <elementGuidId>a8cf1db8-b67a-47af-a961-102a431c54b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@class=&quot;config-editor-textbox&quot;])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@class=&quot;config-editor-textbox&quot;])[6]</value>
+      <webElementGuid>69e57fca-584f-40a5-9e08-5c5076f46bfa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

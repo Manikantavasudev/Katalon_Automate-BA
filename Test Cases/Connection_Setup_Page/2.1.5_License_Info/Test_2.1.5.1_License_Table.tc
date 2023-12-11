@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check all the License Table data</description>
+   <name>Test_2.1.5.1_License_Table</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>da884a9b-9f40-4340-9d10-a100652abc2a</testCaseGuid>
+   <variable>
+      <defaultValue>['Module Name', 'License Type', 'License Period']</defaultValue>
+      <description></description>
+      <id>1198e82c-f062-49f9-98b9-540809e0b132</id>
+      <masked>false</masked>
+      <name>license_info_header_list</name>
+   </variable>
+   <variable>
+      <defaultValue>['BC1.2 DCP Sink Tests', 'C2', 'C2 Starter', 'DP AUX Sniffer', 'EPR Tests', 'M1', 'MFi Charger Tests', 'Quick Charge 3 Plus Tests', 'Quick Charge 3 Tests', 'Quick Charge 4 - IOP Tests', 'Quick Charge 4 Tests', 'Thunderbolt 3 Power Tests', 'USB-C Functional Tests']</defaultValue>
+      <description></description>
+      <id>bc31fb76-c24b-476b-9bac-57a52881b227</id>
+      <masked>false</masked>
+      <name>license_module_name_list</name>
+   </variable>
+   <variable>
+      <defaultValue>'#8dc63f'</defaultValue>
+      <description></description>
+      <id>81c4b737-fa76-4597-b33f-27101cb54ec9</id>
+      <masked>false</masked>
+      <name>perm_license_clr</name>
+   </variable>
+   <variable>
+      <defaultValue>'#fcadb6'</defaultValue>
+      <description></description>
+      <id>3fb8a9b7-f960-4450-ad5a-a32bad83257a</id>
+      <masked>false</masked>
+      <name>expired_license_clr</name>
+   </variable>
+</TestCaseEntity>

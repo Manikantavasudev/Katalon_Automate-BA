@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Charger_tooltip_icon</name>
+   <tag></tag>
+   <elementGuidId>67454ac7-b6e5-47b8-bf05-a749565bfc23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;right-border panel-padding report-generation-container&quot;]/div[@class=&quot;panel-div moi-maincontainer&quot;]/div[1]/div[@class=&quot;panel-setWidth&quot;]/div[@class=&quot;scroll moi-container&quot;]/div[12]/div[1]/table[@class=&quot;table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[1]/td[@class=&quot;mfi-table-td&quot;]/div[1]/img[@class=&quot;usb-device-url-img info-img-irdrop&quot;][count(. | //*[@src = '../../images/sleep-info.png' and @alt = 'info-irdrop' and @class = 'usb-device-url-img info-img-irdrop']) = count(//*[@src = '../../images/sleep-info.png' and @alt = 'info-irdrop' and @class = 'usb-device-url-img info-img-irdrop'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.mfi-table-td > div > img.usb-device-url-img.info-img-irdrop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../images/sleep-info.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>info-irdrop</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>usb-device-url-img info-img-irdrop</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;right-border panel-padding report-generation-container&quot;]/div[@class=&quot;panel-div moi-maincontainer&quot;]/div[1]/div[@class=&quot;panel-setWidth&quot;]/div[@class=&quot;scroll moi-container&quot;]/div[12]/div[1]/table[@class=&quot;table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[1]/td[@class=&quot;mfi-table-td&quot;]/div[1]/img[@class=&quot;usb-device-url-img info-img-irdrop&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div/div/div/div/div[12]/div/table/tbody/tr/td/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='info-irdrop'])[12]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

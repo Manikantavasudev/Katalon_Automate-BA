@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check View Report button Functionality</description>
+   <name>Test_6.3_View_Report</name>
+   <tag>Report</tag>
+   <comment></comment>
+   <testCaseGuid>2bec4fd9-6077-4dea-9cd8-586b55049273</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77b1a7a4-6f93-484c-a589-8560bc7ae8c9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'rgba(255, 0, 0, 1)'</defaultValue>
+      <description></description>
+      <id>77b1a7a4-6f93-484c-a589-8560bc7ae8c9</id>
+      <masked>false</masked>
+      <name>stop_execution_text_color</name>
+   </variable>
+</TestCaseEntity>

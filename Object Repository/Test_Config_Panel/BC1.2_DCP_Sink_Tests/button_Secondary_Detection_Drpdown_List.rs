@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Secondary_Detection_Drpdown_List</name>
+   <tag></tag>
+   <elementGuidId>7d5d09c4-7aa7-4359-845d-e1ced28e2603</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@aria-labelledby='tcBc1.2SecondaryDetectionComboBox']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@aria-labelledby='tcBc1.2SecondaryDetectionComboBox']/a</value>
+   </webElementProperties>
+</WebElementEntity>

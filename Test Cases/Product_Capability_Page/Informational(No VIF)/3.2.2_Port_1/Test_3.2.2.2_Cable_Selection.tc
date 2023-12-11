@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will verify the Cable Selection drpdown</description>
+   <name>Test_3.2.2.2_Cable_Selection</name>
+   <tag>Product_Capability(Informational_Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>025253fd-bccf-41b1-8ef9-4cede047c3c2</testCaseGuid>
+</TestCaseEntity>

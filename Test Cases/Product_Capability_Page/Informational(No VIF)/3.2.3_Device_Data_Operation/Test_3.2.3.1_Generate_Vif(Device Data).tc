@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will verify Generate_Vif(Device Data) Functionality and it will cross check the xml file data with ui table data</description>
+   <name>Test_3.2.3.1_Generate_Vif(Device Data)</name>
+   <tag>Product_Capability(Informational_Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>e2631d1d-67d2-4542-91e1-bf5ca3a84a64</testCaseGuid>
+</TestCaseEntity>

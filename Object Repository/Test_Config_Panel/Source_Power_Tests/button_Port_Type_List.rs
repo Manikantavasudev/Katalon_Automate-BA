@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Port_Type_List</name>
+   <tag></tag>
+   <elementGuidId>05585c7c-aed8-4d16-8534-53589859ca7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@aria-labelledby='tcSorcePowerPortTypeComboBox']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@aria-labelledby='tcSorcePowerPortTypeComboBox']/a</value>
+   </webElementProperties>
+</WebElementEntity>

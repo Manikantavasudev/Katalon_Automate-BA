@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "18E93B522F347E30C92CBD53078ACDC3",
+  "keywordClasses": [
+    {
+      "name": "checking_instance_of_app.instance_checking_c2_app",
+      "keywordMethods": [
+        {
+          "name": "checking_instance",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Run_C2_app",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

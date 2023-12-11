@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_2.1.7.3_Verify_Update_Eload_Firmware</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>d7777c7f-485c-4726-9a53-eea2a7622c80</testCaseGuid>
+</TestCaseEntity>

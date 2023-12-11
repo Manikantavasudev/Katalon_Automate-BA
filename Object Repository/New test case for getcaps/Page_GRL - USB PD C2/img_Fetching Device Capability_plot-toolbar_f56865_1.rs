@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Fetching Device Capability_plot-toolbar_f56865_1</name>
+   <tag></tag>
+   <elementGuidId>05003d4b-ae23-4cb5-be90-06db7acac571</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_screenshot > img.plot-toolbar-img.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn_screenshot']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>853398dd-28f4-4287-847e-f3f81a2f5f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../images/chartIcons/PNG/screenshot.png</value>
+      <webElementGuid>bcc11414-32a8-40ba-8269-e2c243594fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>screenshot</value>
+      <webElementGuid>95442733-65da-4fd2-bc12-1f7b366a2e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plot-toolbar-img undefined</value>
+      <webElementGuid>b911dbd2-f0bf-4f27-a94e-070215900ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_screenshot&quot;)/img[@class=&quot;plot-toolbar-img undefined&quot;]</value>
+      <webElementGuid>a8bb30ac-4398-46ad-80c1-427dde3c40d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btn_screenshot']/img</value>
+      <webElementGuid>e848f6e8-cda4-4b5b-8eda-b19667ee5d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='screenshot']</value>
+      <webElementGuid>0c62b634-7ff7-409c-8db3-09def28fa387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/button/img</value>
+      <webElementGuid>431e7bc5-6a42-45ab-bf05-93d1e097001b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../images/chartIcons/PNG/screenshot.png' and @alt = 'screenshot']</value>
+      <webElementGuid>f3fe80b5-e3c4-41bc-a913-d4b436420d99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

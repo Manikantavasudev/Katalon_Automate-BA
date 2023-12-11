@@ -1,0 +1,183 @@
+{
+  "PDAppMode": {
+    "COMPLIANCE_TEST_PD3": "PD3",
+    "USB_C_SOURCE_POWER_TEST": "SPT",
+    "QC4_TEST": "QC4",
+    "DETERMINISTIC_TESTS": "DETER",
+    "FUNCTIONAL_TESTS": "FUNC",
+    "COMMUNICATION_ENGINE_TESTS": "PD2",
+    "DP_ALT_MODE_TESTS": "DP_ALT",
+    "QC_LEGACY": "QC3",
+    "TBT_POWER_TESTING": "TBT",
+    "PD_Merged": "PDMerged",
+    "CHROME_BOOK_TEST": "MFG_WWC",
+    "MFI_TESTS": "MFI",
+    "BC_1_2_TESTS": "BC_1_2"
+  },
+  "USBPDDeviceType": [
+    "Consumer_Only",
+    "Consumer_Provider",
+    "Provider_Consumer",
+    "Provider_Only",
+    "DRP",
+    "Cable",
+    "AltMode_Device",
+    "Type_C_Only"
+  ],
+  "PDAppModeEnumTestSelection": {
+    "BC_1_2": "BC_1_2_TESTS",
+    "CB": "CHROME_BOOK_TEST",
+    "CE": "COMMUNICATION_ENGINE_TESTS",
+    "PD3": "COMPLIANCE_TEST_PD3",
+    "DET": "DETERMINISTIC_TESTS",
+    "DP": "DP_ALT_MODE_TESTS",
+    "FTS": "FUNCTIONAL_TESTS",
+    "Mfi": "MFI_TESTS",
+    "PD_MERGED": "PD_Merged",
+    "QC4": "QC4_TEST",
+    "QCL": "QC_LEGACY",
+    "TBT": "TBT_POWER_TESTING",
+    "SPT": "USB_C_SOURCE_POWER_TEST",
+    "QC4_IOP": "QC4_TEST"
+  },
+  "TestResult": [
+    "PASS",
+    "FAIL",
+    "RESERVED",
+    "SKIPPED",
+    "UNKNOWN",
+    "NA",
+    "WARNING",
+    "INCOMPLETE",
+    "NOT_EXECUTED",
+    "ABORTED"
+  ],
+  "VIFData": {
+    "Date_and_Time": "date",
+    "GRL_USB_PD_Software_Version": "pd_sw_ver",
+    "GRL_USB_PD_Firmware_Version": "pd_fw_ver",
+    "GRL_USB_PD_C2_Serial_No": "pd_c2_sno",
+    "PD_Port_Type": "pd_port_type",
+    "Test_Engineer": "test_engineer",
+    "Vendor_Name": "vendor_name",
+    "PD_Specification_Revision": "pd_spec_rev",
+    "Five_Port_Enabled": "five_port_enable",
+    "VIF_Specification": "vif_spec",
+    "VIF_File_Name": "vif_file_name",
+    "Device_Type": "device type",
+    "Functional high speed line validation": "Functional_high_speed_line_validation",
+    "QC4 Device Type": "QC4_Device_Type",
+    "DP Alt Mode DUT Type": "DP_Alt_Mode_DUT_Type",
+    "DP Alt Mode DUT Caps": "DP_Alt_Mode_DUT_Caps",
+    "DP Alt Mode DUT Sink Type": "DP_Alt_Mode_DUT_Sink_Type",
+    "QC DUT type": "QC_DUT_type",
+    "QC Connector type": "QC_Connector_type",
+    "QC Port Count": "QC_Port_Count",
+    "PD Support": "PD_Support",
+    "QC Device Type": "QC_Device_Type",
+    "TBT Port type": "TBT_Port_type",
+    "TBT Powered type": "TBT_Powered_type",
+    "TBT Device type": "TBT_Device_type",
+    "Noise Pattern Generation": "Noise_Pattern_Generation",
+    "VCONN voltage": "VCONN_voltage",
+    "TBT_EnableCapMismatchPortA": "TBT_Enable_CapMismatch_PortA",
+    "TBT_EnableCapMismatchPortB": "TBT_Enable_CapMismatch_PortB",
+    "TBT_EnableGivebackflagPortA": "TBT_Enable_Givebackflag_PortA",
+    "TBT_EnableGivebackflagPortB": "TBT_Enable_Givebackflag_PortB"
+  },
+  "MoiSpecificVifData": {
+    "COMPLIANCE_TEST_PD3": [],
+    "USB_C_SOURCE_POWER_TEST": [
+      "QC_Port_Count"
+    ],
+    "QC4_TEST": [
+      "QC4_Device_Type"
+    ],
+    "DETERMINISTIC_TESTS": [
+      "VCONN_voltage"
+    ],
+    "FUNCTIONAL_TESTS": [
+      "Functional_high_speed_line_validation"
+    ],
+    "COMMUNICATION_ENGINE_TESTS": [
+      "Noise_Pattern_Generation",
+      "VCONN_voltage"
+    ],
+    "DP_ALT_MODE_TESTS": [
+      "DP_Alt_Mode_DUT_Type",
+      "DP_Alt_Mode_DUT_Caps",
+      "DP_Alt_Mode_DUT_Sink_Type"
+    ],
+    "QC_LEGACY": [
+      "QC_DUT_type",
+      "QC_Connector_type",
+      "QC_Port_Count",
+      "PD_Support",
+      "QC_Device_Type"
+    ],
+    "TBT_POWER_TESTING": [
+      "TBT_Port_type",
+      "TBT_Powered_type",
+      "TBT_Device_type",
+      "TBT_Enable_CapMismatch_PortA",
+      "TBT_Enable_CapMismatch_PortB",
+      "TBT_Enable_Givebackflag_PortA",
+      "TBT_Enable_Givebackflag_PortB"
+    ],
+    "PD_Merged": [],
+    "CHROME_BOOK_TEST": [],
+    "MFI_TESTS": [],
+    "BC_1_2_TESTS": []
+  },
+  "VIFHeading": {
+    "Date": "Date_and_Time",
+    "Five Port": "Five_Port_Enabled",
+    "C2 Sno": "GRL_USB_PD_C2_Serial_No",
+    "Test Er": "Test_Engineer",
+    "Port Type": "PD_Port_Type",
+    "VIF Name": "VIF_File_Name",
+    "VIF Spec": "VIF_Specification",
+    "PD Spec Rev": "PD_Specification_Revision",
+    "Folder Name": "Folder Name",
+    "Folder Abs Path": "Folder Abs Path",
+    "Vendor": "Vendor_Name",
+    "SW Ver": "GRL_USB_PD_Software_Version",
+    "FW Ver": "GRL_USB_PD_Firmware_Version",
+    "Dev Type": "Device_Type",
+    "Functional_high_speed_line_validation": "Functional high speed line validation",
+    "QC4_Device_Type": "QC4 Device Type",
+    "DP_Alt_Mode_DUT_Type": "DP Alt Mode DUT Type",
+    "DP_Alt_Mode_DUT_Caps": "DP Alt Mode DUT Caps",
+    "DP_Alt_Mode_DUT_Sink_Type": "DP Alt Mode DUT Sink Type",
+    "QC_DUT_type": "QC DUT type",
+    "QC_Connector_type": "QC Connector type",
+    "QC_Port_Count": "QC Port Count",
+    "PD_Support": "PD Support",
+    "QC_Device_Type": "QC Device Type",
+    "TBT_Port_type": "TBT Port type",
+    "TBT_Powered_type": "TBT Powered type",
+    "TBT_Device_type": "TBT Device type",
+    "Noise_Pattern_Generation": "Noise Pattern Generation",
+    "VCONN_voltage":"VCONN voltage" ,
+    "TBT_Enable_CapMismatch_PortA": "TBT_EnableCapMismatchPortA",
+    "TBT_Enable_CapMismatch_PortB":  "TBT_EnableCapMismatchPortB",
+    "TBT_Enable_Givebackflag_PortA":  "TBT_EnableGivebackflagPortA",
+    "TBT_Enable_Givebackflag_PortB": "TBT_EnableGivebackflagPortB"
+  },
+  "VIFReportDisplayField": {
+    "Date": "True",
+    "C2 Sno": "True",
+    "Five Port": "True",
+    "Test Er": "True",
+    "Port Type": "True",
+    "VIF Name": "True",
+    "VIF Spec": "True",
+    "PD Spec Rev": "True",
+    "Folder Name": "True",
+    "Folder Abs Path": "True",
+    "Vendor": "True",
+    "SW Ver": "True",
+    "FW Ver": "True",
+    "Dev Type": "True"
+  }
+}

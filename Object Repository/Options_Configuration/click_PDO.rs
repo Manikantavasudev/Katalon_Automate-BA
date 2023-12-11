@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_PDO</name>
+   <tag></tag>
+   <elementGuidId>b0be3325-dc90-49e8-9a7d-38f62cee0b34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@class=&quot;config-editor-textbox&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@class=&quot;config-editor-textbox&quot;])[1]</value>
+      <webElementGuid>c51897f5-f5fa-45ef-ac05-9e4ff60c5371</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

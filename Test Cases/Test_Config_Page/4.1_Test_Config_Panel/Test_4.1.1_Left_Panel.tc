@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will check Left Panel icons and checkbox and all tooltip info text</description>
+   <name>Test_4.1.1_Left_Panel</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>86e0072a-d43b-48d4-9926-88a8655fc296</testCaseGuid>
+</TestCaseEntity>

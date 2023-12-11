@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Consumer Only</name>
+   <tag></tag>
+   <elementGuidId>197bdddf-3d40-405c-a56a-d62a5090b51b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.uutTypeSelection.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[2]/div/div/div/div/div[4]/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d8d75dc2-2985-4c99-85ac-02dc5165e5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uutTypeSelection dropdown-item</value>
+      <webElementGuid>964a7cf2-7461-47cf-b62c-5d972fa2db35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4aa926aa-dfa4-45a6-a799-a78ae37ce661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>7c8213b5-78d9-4910-b84c-a2f55370cd83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consumer Only</value>
+      <webElementGuid>4ef172dc-eb1b-48d1-a705-0bdd7096782a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;panel-setWidth&quot;]/div[@class=&quot;port-flex&quot;]/div[@class=&quot;right-border align-on-zoom panel-padding scroll mobile-product-capability-left-side-container&quot;]/div[4]/div[1]/div[@class=&quot;dut-TypeSelection&quot;]/div[@class=&quot;dut-port-align show dropdown&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;uutTypeSelection dropdown-item&quot;]</value>
+      <webElementGuid>8990dcbc-0795-4371-84cc-f29d47ff0d87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[2]/div/div/div/div/div[4]/div/div/div/div/a</value>
+      <webElementGuid>04ee8f32-8ac7-4475-a224-aaefe3c99bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Consumer Only')]</value>
+      <webElementGuid>64d34bf1-4581-4681-9fbc-ab6b820f6c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dual Role Power[DRP]'])[1]/following::a[1]</value>
+      <webElementGuid>e1309b67-da91-4297-8ce4-9f52cbda30a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DUT Type'])[1]/following::a[1]</value>
+      <webElementGuid>d3b80b34-3c50-479e-98b7-bdfe8c1ffd7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cable Selection'])[1]/preceding::a[7]</value>
+      <webElementGuid>7a5f4a09-20ad-4bdf-ad99-bd7892b39d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Captive Cable'])[1]/preceding::a[7]</value>
+      <webElementGuid>c8265783-3643-4c4c-b766-591331dfd540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consumer Only']/parent::*</value>
+      <webElementGuid>b5d16841-b56a-4bc9-ab0f-919feb5dc35f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>cf8193e9-1a64-4ab7-8010-0dc96ad2b95c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/a</value>
+      <webElementGuid>4859d71a-46da-43b8-99d9-e46375dc4fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Consumer Only' or . = 'Consumer Only')]</value>
+      <webElementGuid>955daf2c-9cb3-4698-8045-56eb419d09ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

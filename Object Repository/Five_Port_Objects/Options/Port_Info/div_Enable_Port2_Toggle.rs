@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enable_Port2_Toggle</name>
+   <tag></tag>
+   <elementGuidId>7a661f75-fb08-479f-a322-a6bffba6dbde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div[@id=&quot;opFivePortTestingTab2EnablePortToggleSwitch&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div/div[@id=&quot;opFivePortTestingTab2EnablePortToggleSwitch&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div/div[@id=&quot;opFivePortTestingTab2EnablePortToggleSwitch&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

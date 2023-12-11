@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8dEgy97Swck+ABPDCNpngOX6epk7nwM/Y3sPcKtcwSNomfpIhCvJS2bt8+Ux8KeEGRDTr55gxNhlV+k7cGpmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GRL\\C2AutomationBuild_0.9.2Version\\C2AutomationTest_Kat\\C2_TestResult_AggregationTool\\C2XMLComparisonTool-main\\C2Testing\\C2Testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GRL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\GRL\\.nuget\\packages\\xmldiffpatch\\1.0.8.28\\xmldiffpatch.1.0.8.28.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XMLDiffPatch 1.0.8.28' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XMLDiffPatch",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

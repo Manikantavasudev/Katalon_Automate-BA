@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_result</name>
+   <tag></tag>
+   <elementGuidId>a19cf897-bf0f-4d33-b6dc-510a4d61b4ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt=&quot;Results&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Results&quot;]</value>
+      <webElementGuid>60acab15-f6fa-4648-963f-ac8ad4a6f342</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Device_Type</name>
+   <tag></tag>
+   <elementGuidId>adc93f10-7a77-49e6-8cb9-5524af9445b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div/button[@id='pcPort1DutTypeComboBox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div/button[@id='pcPort1DutTypeComboBox']</value>
+   </webElementProperties>
+</WebElementEntity>

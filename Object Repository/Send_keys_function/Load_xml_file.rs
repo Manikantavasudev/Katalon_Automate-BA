@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Load_xml_file</name>
+   <tag></tag>
+   <elementGuidId>e527056c-a330-4c9f-a29b-660d58903f0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;pcLoadXmlVifFileBtn&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;vif-file-upload&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;vif-file-upload&quot;]</value>
+      <webElementGuid>a9648f13-fe46-45b9-909a-8d042348e9b3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Enable_Disable_Markers_Common</name>
+   <tag></tag>
+   <elementGuidId>18e8dbc3-d33c-4218-b8fb-bb1fac460bee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button/img[@src=&quot;../../images/chartIcons/PNG/enable-disable-signal-markers.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button/img[@src=&quot;../../images/chartIcons/PNG/enable-disable-signal-markers.png&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

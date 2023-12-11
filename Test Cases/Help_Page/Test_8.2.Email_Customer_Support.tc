@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase Will verify Email Customer Support Link Functionality</description>
+   <name>Test_8.2.Email_Customer_Support</name>
+   <tag>HelpPanel</tag>
+   <comment></comment>
+   <testCaseGuid>594112c0-2ff0-475b-adfe-fd36f7abc048</testCaseGuid>
+</TestCaseEntity>

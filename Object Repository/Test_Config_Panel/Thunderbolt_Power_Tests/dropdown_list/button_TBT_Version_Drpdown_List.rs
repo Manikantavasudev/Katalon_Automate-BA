@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_TBT_Version_Drpdown_List</name>
+   <tag></tag>
+   <elementGuidId>a5690b2d-5172-4f76-945b-9d3fcb75c0c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@aria-labelledby='tcTBTDeviceTypeComboBox']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@aria-labelledby='tcTBTDeviceTypeComboBox']/a</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6th_current</name>
+   <tag></tag>
+   <elementGuidId>b2fa1fbb-6922-4616-bc06-330438820cad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@class=&quot;config-editor-textbox&quot;])[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@class=&quot;config-editor-textbox&quot;])[13]</value>
+      <webElementGuid>3cfeb676-3442-4335-a422-709342f85d53</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

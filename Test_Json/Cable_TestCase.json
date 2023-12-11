@@ -1,0 +1,23 @@
+{
+   "Expand_Test_List":{
+      "Top":"C2 Test Cases",
+      "Tree_Switcher_Start01":
+         {
+            "Tree_Switcher_1" : "USB Power Delivery Compliance Test Specification",
+            "Tree_Sub_Switcher_1_01" : "PDMER_PHY_TEST_ALL_UUT"
+         },
+      "Tree_Switcher_Start02":
+         {
+            "Tree_Switcher_2":"PD2 Communication Engine Tests",
+            "Tree_Sub_Switcher_2_01" : "TDA.1.1.1.1.1 CABLE PHY TX EYE",
+            "Tree_Sub_Switcher_2_02" : "TDA.1.1.1.2.1 CABLE PHY TX BIT",
+            "Tree_Sub_Switcher_2_03" : "TDA.1.1.2.2.1 CABLE PHY RX INT REJ",
+            "Tree_Sub_Switcher_2_04" : "TDA.1.1.2.1.1 CABLE PHY RX BUSIDL"
+         },
+      "Tree_Switcher_Start04":
+         {
+            "Tree_Switcher_4" : "USB-C Functional Tests",
+            "Tree_Sub_Switcher_4_01" : "TD.4.13.5 Cable EnterUSB and Data Reset Test",
+         },
+   }
+}

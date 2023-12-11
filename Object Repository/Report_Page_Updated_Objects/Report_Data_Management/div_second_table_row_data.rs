@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_second_table_row_data</name>
+   <tag></tag>
+   <elementGuidId>bd9f4a8d-8773-4c04-a285-93c10edc5ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;resultsmanager-modalcontainer&quot;]/table/tbody/tr[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;resultsmanager-modalcontainer&quot;]/table/tbody/tr[2]</value>
+   </webElementProperties>
+</WebElementEntity>

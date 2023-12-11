@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check Report Data Managemnet Functionality</description>
+   <name>Test_6.6_Report_Data_Management</name>
+   <tag>Report</tag>
+   <comment></comment>
+   <testCaseGuid>c88b9e7b-724a-4c64-9251-d71d82b11f38</testCaseGuid>
+   <variable>
+      <defaultValue>'Test results folder size :0.00 MBs'</defaultValue>
+      <description></description>
+      <id>1eb907de-a74d-4a28-a592-d5f89f98b8cb</id>
+      <masked>false</masked>
+      <name>exp_test_results_folder_size</name>
+   </variable>
+</TestCaseEntity>

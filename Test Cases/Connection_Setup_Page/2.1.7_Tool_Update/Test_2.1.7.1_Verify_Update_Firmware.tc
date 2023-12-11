@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will update Firmware Automatically</description>
+   <name>Test_2.1.7.1_Verify_Update_Firmware</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>2a331a67-8fcc-4672-93b7-8bdb079bb422</testCaseGuid>
+</TestCaseEntity>

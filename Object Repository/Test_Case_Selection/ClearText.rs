@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ClearText</name>
+   <tag></tag>
+   <elementGuidId>40329b04-a041-4edd-a973-9c6e798ec78d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//i[@class='rc-select-selection__clear-icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//i[@class='rc-select-selection__clear-icon']</value>
+      <webElementGuid>1e201d42-b644-44d8-93c3-4c5e8d1f54b4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

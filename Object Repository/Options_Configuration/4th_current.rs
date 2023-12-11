@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4th_current</name>
+   <tag></tag>
+   <elementGuidId>b12f4b08-0e08-491c-a464-2469b4a370c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@class=&quot;config-editor-textbox&quot;])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@class=&quot;config-editor-textbox&quot;])[9]</value>
+      <webElementGuid>488c9c1e-7e34-4a86-b93a-59299df98f92</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

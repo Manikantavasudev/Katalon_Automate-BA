@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Time  33.967616760  T  21106.80msVbus  _20ad77</name>
+   <tag></tag>
+   <elementGuidId>1ebbedad-5a14-4780-b3bd-ed30d1430c6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chart_toolbar_pan_top_button > img.plot-toolbar-img.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='chart_toolbar_pan_top_button']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3e2384e6-af18-4605-9a6f-d9578ae1c814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../images/chartIcons/PNG/move-top.png</value>
+      <webElementGuid>4f54b203-87b1-469c-b4ed-728b533285a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>hands</value>
+      <webElementGuid>845e910c-bc44-48ad-9b31-ae53167ae5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plot-toolbar-img undefined</value>
+      <webElementGuid>0efadaf8-9c6a-4276-ba11-8c8d5bddb90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chart_toolbar_pan_top_button&quot;)/img[@class=&quot;plot-toolbar-img undefined&quot;]</value>
+      <webElementGuid>9736fad6-5eed-44ba-9f5b-ba415e5b8d83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='chart_toolbar_pan_top_button']/img</value>
+      <webElementGuid>2773415b-268a-4578-ad01-171806f03699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='hands'])[3]</value>
+      <webElementGuid>6e90fd12-b5d3-4ec7-921a-0e04d212dacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/button/img</value>
+      <webElementGuid>2d582846-93dc-464d-8e6a-69aa5ef3abcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../images/chartIcons/PNG/move-top.png' and @alt = 'hands']</value>
+      <webElementGuid>99cd4cc0-d315-4717-9cfa-c08bd5d800c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

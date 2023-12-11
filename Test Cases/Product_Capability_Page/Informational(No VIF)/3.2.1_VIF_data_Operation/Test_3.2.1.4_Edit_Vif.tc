@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will Edit Vif files and  after it will cross verify the edited  file data with ui data</description>
+   <name>Test_3.2.1.4_Edit_Vif</name>
+   <tag>Product_Capability(Informational Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>4e31feca-0cc7-4ad5-be38-5dd86edc5623</testCaseGuid>
+</TestCaseEntity>

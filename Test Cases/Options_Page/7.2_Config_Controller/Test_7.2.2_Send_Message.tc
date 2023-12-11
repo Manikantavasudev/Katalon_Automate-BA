@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check Send Mesage button Functionality</description>
+   <name>Test_7.2.2_Send_Message</name>
+   <tag>Options</tag>
+   <comment></comment>
+   <testCaseGuid>829e82b6-b18d-4274-a940-e55c9113c43c</testCaseGuid>
+</TestCaseEntity>

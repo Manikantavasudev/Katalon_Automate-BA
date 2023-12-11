@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TD.4.6.6 Try SRC DRP Connect SNKAS Tes_3d6049</name>
+   <tag></tag>
+   <elementGuidId>538b8823-2ea4-45c4-982b-0c60ec79c583</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/ul/li/ul/li[4]/ul/li[37]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>468f1efb-b85c-40d3-8cb3-8363d1e99e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-tree-checkbox</value>
+      <webElementGuid>2822dd7f-e13d-4161-bea1-6ab23431af8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;right-border panel-padding test-selectioncontainer&quot;]/div[@class=&quot;c2-treeview-nodes test-selection-treeview-container&quot;]/div[@class=&quot;scroll&quot;]/ul[@class=&quot;rc-tree&quot;]/li[@class=&quot;C2 Test Cases rc-tree-treenode-switcher-open rc-tree-treenode-checkbox-indeterminate&quot;]/ul[@class=&quot;rc-tree-child-tree rc-tree-child-tree-open&quot;]/li[@class=&quot;USB-C Functional Tests rc-tree-treenode-switcher-open rc-tree-treenode-checkbox-indeterminate&quot;]/ul[@class=&quot;rc-tree-child-tree rc-tree-child-tree-open&quot;]/li[@class=&quot;rc-tree-treenode-switcher-close&quot;]/span[@class=&quot;rc-tree-checkbox&quot;]</value>
+      <webElementGuid>146a806d-0775-403c-adc5-6265563f94d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/ul/li/ul/li[4]/ul/li[37]/span[2]</value>
+      <webElementGuid>eb0ee4ea-3a18-47eb-982d-f57fd3d9f543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[37]/span[2]</value>
+      <webElementGuid>fe2324eb-c130-4715-88c8-68e2879436b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

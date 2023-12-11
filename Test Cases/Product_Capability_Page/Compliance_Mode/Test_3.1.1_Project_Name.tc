@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcases will check Project Name editbox details functionality </description>
+   <name>Test_3.1.1_Project_Name</name>
+   <tag>Product_Capability(Compliance_Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>db1be6ab-4091-4fee-9e88-295e97698809</testCaseGuid>
+</TestCaseEntity>

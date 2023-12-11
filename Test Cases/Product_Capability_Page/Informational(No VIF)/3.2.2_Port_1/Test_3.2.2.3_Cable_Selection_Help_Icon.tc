@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will Verify the Cable Selection Help icon tooltip info </description>
+   <name>Test_3.2.2.3_Cable_Selection_Help_Icon</name>
+   <tag>Product_Capability(Informational_Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>e2ca97f2-cac6-4c5b-9c14-af94b8d04f3a</testCaseGuid>
+</TestCaseEntity>

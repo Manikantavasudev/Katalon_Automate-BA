@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify the valid Ip address without Tester Connection</description>
+   <name>Test_2.1.2.4_Invalid_IP_with_correct_IP_Address</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>7b5701f3-55bf-4109-8a58-0b9c4d97f010</testCaseGuid>
+</TestCaseEntity>

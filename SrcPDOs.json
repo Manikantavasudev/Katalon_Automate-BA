@@ -1,0 +1,29 @@
+{
+"user_src_config_data":
+ {
+  "Total_PDOs"     :"1",
+  "PDOs": "true",
+  "_1PDOs_voltage" :"5000",
+  "_1PDOs_current" :"3000",
+  "PDOs": "true",
+  "_2PDOs_voltage" :"5000",
+  "_2PDOs_current" :"3000",
+  "PDOs": "true",
+  "_3PDOs_voltage" :"5000",
+  "_3PDOs_current" :"3000",
+  "PDOs": "true",
+  "_4PDOs_voltage" :"5000",
+  "_4PDOs_current" :"3000",
+  "PDOs": "true",
+  "_5PDOs_voltage" :"5000",
+  "_5PDOs_current" :"3000",
+  "PDOs": "true",
+  "_6PDOs_voltage" :"5000",
+  "_6PDOs_current" :"3000",
+  "PDOs": "true",
+  "_7PDOs_voltage" :"5000",
+  "_7PDOs_current" :"3000"
+  }
+ }
+
+  

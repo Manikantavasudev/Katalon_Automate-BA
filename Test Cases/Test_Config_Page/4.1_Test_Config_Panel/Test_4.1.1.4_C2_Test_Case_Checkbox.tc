@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check all the selected and unselected checkbox status</description>
+   <name>Test_4.1.1.4_C2_Test_Case_Checkbox</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>f40bc6ec-c019-41ce-b50e-7d1dae88a17e</testCaseGuid>
+</TestCaseEntity>

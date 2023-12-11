@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Failed_Testcase</name>
+   <tag></tag>
+   <elementGuidId>2b330ea8-c905-4556-b7b9-2557099be55b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt=&quot;failed-testCase&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;failed-testCase&quot;]</value>
+      <webElementGuid>6c585ed1-c10c-4326-b206-2d9d1e7da719</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

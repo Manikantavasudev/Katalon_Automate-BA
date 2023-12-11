@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Number_of_Ports_Drpdown_List</name>
+   <tag></tag>
+   <elementGuidId>f40d0bbe-3bf2-4c7f-ae2f-37337c6f68c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@aria-labelledby='tcTBTNumberOfPortsComboBox']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@aria-labelledby='tcTBTNumberOfPortsComboBox']/a</value>
+   </webElementProperties>
+</WebElementEntity>

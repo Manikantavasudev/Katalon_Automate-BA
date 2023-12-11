@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will parse the json file and Return Map objects</description>
+   <name>Test_Data_Reader</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea82aba4-1def-4d3c-8a31-5a842f406664</testCaseGuid>
+</TestCaseEntity>

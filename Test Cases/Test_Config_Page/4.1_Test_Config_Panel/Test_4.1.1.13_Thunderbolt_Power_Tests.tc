@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify Thunderbolt Power Tests MOI  functionality for all the Dut</description>
+   <name>Test_4.1.1.13_Thunderbolt_Power_Tests</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>d42ddc6a-3e65-4cfb-91e8-b7d7138de005</testCaseGuid>
+</TestCaseEntity>

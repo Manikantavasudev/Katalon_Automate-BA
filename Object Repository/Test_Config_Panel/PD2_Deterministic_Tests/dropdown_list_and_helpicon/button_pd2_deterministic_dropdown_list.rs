@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_pd2_deterministic_dropdown_list</name>
+   <tag></tag>
+   <elementGuidId>f733658d-a9a5-4203-a6bd-4a612470739f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@aria-labelledby='tcPd2DeterministicVconnVoltageComboBox']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@aria-labelledby='tcPd2DeterministicVconnVoltageComboBox']/a</value>
+   </webElementProperties>
+</WebElementEntity>

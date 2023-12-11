@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify Download Debug Logs link</description>
+   <name>Test_8.3.Download_Debug_Logs</name>
+   <tag>HelpPanel</tag>
+   <comment></comment>
+   <testCaseGuid>5f98496c-46c9-4cb8-9906-a0440d8d3f08</testCaseGuid>
+</TestCaseEntity>

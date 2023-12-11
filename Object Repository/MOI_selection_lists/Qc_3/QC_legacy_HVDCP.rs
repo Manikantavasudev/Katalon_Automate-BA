@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>QC_legacy_HVDCP</name>
+   <tag></tag>
+   <elementGuidId>83747fba-2864-4eca-897d-a14861dc3a7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;QC_LEGACY_HVDCP&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;QC_LEGACY_HVDCP&quot;]</value>
+      <webElementGuid>2e92ff52-4916-49b3-835d-7fe428573c51</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

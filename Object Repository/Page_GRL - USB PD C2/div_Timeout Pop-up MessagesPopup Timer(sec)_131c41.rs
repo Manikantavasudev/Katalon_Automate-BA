@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Timeout Pop-up MessagesPopup Timer(sec)_131c41</name>
+   <tag></tag>
+   <elementGuidId>1a77ad3d-5952-42e2-9d94-2773a541fd6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-border.panel-padding.report-generation-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8942c10a-5d5d-4014-8953-fa2d481781ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-border panel-padding report-generation-container</value>
+      <webElementGuid>924a3ad8-0dd4-40f0-9275-d5452b316872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Timeout Pop-up MessagesPopup Timer(sec)Rerun Selected TestsEnable Debug ModeMOI Configurations*Select test case for MOI ConfigurationsPower Delivery 3.0 Test ConfigurationVconn Voltage_2_75VFR_Swap AUTO Box ConnectedQuick Charge 4 Test ConfigurationQC4 DUT TypeQC4PlusRoom Temperature (℃)Quick Charger 3.0 Test ConfigurationQC 2.0/3.0 DUT TypeQC4PlusConnector TypeTypeC_TypeCConnector Type CableSpl_Emarker_Cable5V Max  Current(A)9V Max Current(A)12V Max Current(A)  20V Max Current(A)DUT Rated Power(W)PortsSingle_PortPD SupportPDQC DUT TypePower_AdaptorSource Power Test ConfigurationPort TypeSingle_PortPower Input ResetThunderbolt Power Test ConfigurationPortsTwo_PortPowered TypeSelf_PoweredDevice TypeDeviceTBT VersionTBT_3Stress Test Timer(secs) Port-A CapMisMatch Port-B CapMisMatchPort-A GiveBackFlagPort-B GiveBackFlagManual DMM MeasurementDMM ManufacturerDMM ModelDisplayPort Alternate Mode Test ConfigurationDP Device TypeDP_SinkDP Device CapabilityUFP_SinkDP Sink TypeTypeC_DP_AdaptorUSB-C Functional Test Configuration Enable USB Data ValidationAutomate USB Data ValidationSetup ImageDevice URL   PD2 Deterministic Test ConfigurationVconn Voltage_2_75VPD2 Communication Engine Test ConfigurationNoise TypeTwo Tone NoiseVconn Voltage_2_75V Custom OEM Tests ConfigurationCharger has captive lightning plugE-Load Channel1Scan E-LoadExternal E-Load VISA AddressConnectBC 1.2 Test ConfigurationSecondary DetectionNoneMaximum CurrentUSB Power Delivery Compliance Test Specification ConfigurationCable EndEnd1</value>
+      <webElementGuid>66b3b9ae-883f-4f60-8053-649fbafc94df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;right-border panel-padding report-generation-container&quot;]</value>
+      <webElementGuid>1ab19020-cf5f-4f08-8daf-d077f5f88a96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]</value>
+      <webElementGuid>2860a617-5198-4d54-ae5e-ed9cae9cc9a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DisplayPort Alternate Mode Tests-v4'])[1]/following::div[1]</value>
+      <webElementGuid>eade2c04-3a3b-4b37-a189-d8dbf13434c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Power Delivery 3.0 Tests-v1.19'])[1]/following::div[1]</value>
+      <webElementGuid>cf8ee4d3-3dc0-4803-96e8-1b1500d2536e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>e699be81-8b55-4979-859e-7dec22882960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Timeout Pop-up MessagesPopup Timer(sec)Rerun Selected TestsEnable Debug ModeMOI Configurations*Select test case for MOI ConfigurationsPower Delivery 3.0 Test ConfigurationVconn Voltage_2_75VFR_Swap AUTO Box ConnectedQuick Charge 4 Test ConfigurationQC4 DUT TypeQC4PlusRoom Temperature (℃)Quick Charger 3.0 Test ConfigurationQC 2.0/3.0 DUT TypeQC4PlusConnector TypeTypeC_TypeCConnector Type CableSpl_Emarker_Cable5V Max  Current(A)9V Max Current(A)12V Max Current(A)  20V Max Current(A)DUT Rated Power(W)PortsSingle_PortPD SupportPDQC DUT TypePower_AdaptorSource Power Test ConfigurationPort TypeSingle_PortPower Input ResetThunderbolt Power Test ConfigurationPortsTwo_PortPowered TypeSelf_PoweredDevice TypeDeviceTBT VersionTBT_3Stress Test Timer(secs) Port-A CapMisMatch Port-B CapMisMatchPort-A GiveBackFlagPort-B GiveBackFlagManual DMM MeasurementDMM ManufacturerDMM ModelDisplayPort Alternate Mode Test ConfigurationDP Device TypeDP_SinkDP Device CapabilityUFP_SinkDP Sink TypeTypeC_DP_AdaptorUSB-C Functional Test Configuration Enable USB Data ValidationAutomate USB Data ValidationSetup ImageDevice URL   PD2 Deterministic Test ConfigurationVconn Voltage_2_75VPD2 Communication Engine Test ConfigurationNoise TypeTwo Tone NoiseVconn Voltage_2_75V Custom OEM Tests ConfigurationCharger has captive lightning plugE-Load Channel1Scan E-LoadExternal E-Load VISA AddressConnectBC 1.2 Test ConfigurationSecondary DetectionNoneMaximum CurrentUSB Power Delivery Compliance Test Specification ConfigurationCable EndEnd1' or . = 'Timeout Pop-up MessagesPopup Timer(sec)Rerun Selected TestsEnable Debug ModeMOI Configurations*Select test case for MOI ConfigurationsPower Delivery 3.0 Test ConfigurationVconn Voltage_2_75VFR_Swap AUTO Box ConnectedQuick Charge 4 Test ConfigurationQC4 DUT TypeQC4PlusRoom Temperature (℃)Quick Charger 3.0 Test ConfigurationQC 2.0/3.0 DUT TypeQC4PlusConnector TypeTypeC_TypeCConnector Type CableSpl_Emarker_Cable5V Max  Current(A)9V Max Current(A)12V Max Current(A)  20V Max Current(A)DUT Rated Power(W)PortsSingle_PortPD SupportPDQC DUT TypePower_AdaptorSource Power Test ConfigurationPort TypeSingle_PortPower Input ResetThunderbolt Power Test ConfigurationPortsTwo_PortPowered TypeSelf_PoweredDevice TypeDeviceTBT VersionTBT_3Stress Test Timer(secs) Port-A CapMisMatch Port-B CapMisMatchPort-A GiveBackFlagPort-B GiveBackFlagManual DMM MeasurementDMM ManufacturerDMM ModelDisplayPort Alternate Mode Test ConfigurationDP Device TypeDP_SinkDP Device CapabilityUFP_SinkDP Sink TypeTypeC_DP_AdaptorUSB-C Functional Test Configuration Enable USB Data ValidationAutomate USB Data ValidationSetup ImageDevice URL   PD2 Deterministic Test ConfigurationVconn Voltage_2_75VPD2 Communication Engine Test ConfigurationNoise TypeTwo Tone NoiseVconn Voltage_2_75V Custom OEM Tests ConfigurationCharger has captive lightning plugE-Load Channel1Scan E-LoadExternal E-Load VISA AddressConnectBC 1.2 Test ConfigurationSecondary DetectionNoneMaximum CurrentUSB Power Delivery Compliance Test Specification ConfigurationCable EndEnd1')]</value>
+      <webElementGuid>f1e7147b-8486-4f9c-8a30-c36e80af3a72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

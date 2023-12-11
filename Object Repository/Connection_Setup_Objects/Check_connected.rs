@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_connected</name>
+   <tag></tag>
+   <elementGuidId>2d653ce5-6dda-4ad7-b0f7-86f8b29e58c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//b[contains(text(),'Connected')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//b[contains(text(),'Connected')]</value>
+      <webElementGuid>0785ace8-cb43-446a-b76f-0d59bd6eb2fa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

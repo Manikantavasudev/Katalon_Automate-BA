@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will check screenshot button functionality</description>
+   <name>Test_5.1.9_Screenshot</name>
+   <tag>Result</tag>
+   <comment></comment>
+   <testCaseGuid>e3e29412-9f7b-446a-8754-8fd74ef6e2c9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Time  33.967616760  T  21106.80ms_plot-_323741_1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>1e577bb2-66bd-427e-a30c-de5d448e190f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chart_toolbar_pan_right_button > img.plot-toolbar-img.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='chart_toolbar_pan_right_button']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a414f05c-1898-4012-a6d7-0854df2f0a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../images/chartIcons/PNG/move-right.png</value>
+      <webElementGuid>58f2060e-ec9b-4102-8f78-0d4a9428fc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>pan-right</value>
+      <webElementGuid>e4049d06-7506-44a1-b5c3-67ac9ba27ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plot-toolbar-img undefined</value>
+      <webElementGuid>57620b68-2d75-4b44-8249-d0f7dff9f36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chart_toolbar_pan_right_button&quot;)/img[@class=&quot;plot-toolbar-img undefined&quot;]</value>
+      <webElementGuid>6567b8a0-fbcd-4306-ba81-1938295ef545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='chart_toolbar_pan_right_button']/img</value>
+      <webElementGuid>59c81812-a7dd-4092-a11f-f1c2404fb379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='pan-right']</value>
+      <webElementGuid>665190cd-3f4b-47af-a4af-23238b9f9575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button/img</value>
+      <webElementGuid>b366debc-6f55-4501-85b8-8b25dc7d0109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../images/chartIcons/PNG/move-right.png' and @alt = 'pan-right']</value>
+      <webElementGuid>48730f4f-f1b1-4c6d-81db-09b4d28b09d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

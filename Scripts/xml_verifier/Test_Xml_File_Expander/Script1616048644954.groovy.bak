@@ -1,0 +1,144 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebElement as WebElement
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.By as By
+import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import com.kms.katalon.core.testobject.RequestObject as RequestObject
+import com.kms.katalon.core.testobject.ResponseObject as ResponseObject
+import com.kms.katalon.core.testobject.ConditionType as ConditionType
+import com.kms.katalon.core.testobject.TestObjectProperty as TestObjectProperty
+import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper as MobileElementCommonHelper
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import java.awt.Toolkit
+import java.awt.datatransfer.StringSelection
+import java.awt.event.KeyEvent
+import internal.GlobalVariable
+import java.awt.Robot
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import org.openqa.selenium.WebDriver as WebDriver
+
+'This step will call Common Data Reader Testcase and it will read the user provided json data'
+Map all_data = WebUI.callTestCase(findTestCase('Common_Data_Reader/Test_Data_Reader'), [:], FailureHandling.STOP_ON_FAILURE)
+
+String pc_c2_project_name = all_data.user_config_data.PC_C2_Project_Name
+
+String pc_c2_vif_file_path = all_data.user_config_data.PC_C2_Vif_File_Path
+
+String vif_file_expected_Popup_Content = all_data.user_config_data.PC_C2_Vif_File_Popup_Content
+
+WebDriver driver = DriverFactory.getWebDriver()
+
+'To  check  given file path is existing or not'
+
+String file_path="C:\\DRP32__DRPonly__Thinkpad_TBT__3.xml"
+
+File file = new File(pc_c2_vif_file_path)
+
+assert file.exists() == true
+
+
+'To split xml file path and  separate the filename'
+
+int file_path_index = file_path.lastIndexOf("\\")
+
+String user_provided__filename = file_path.substring(file_path_index + 1)
+
+WebUI.comment('User Provided File Name is ::'+user_provided__filename )
+
+
+'To load the xml file using load xml file button'
+
+WebUI.click(findTestObject('Object Repository/Product_Capability_Objects/button_Load XML VIF File'))
+WebUI.delay(10)
+StringSelection ss = new StringSelection(pc_c2_vif_file_path);
+Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
+Robot robot = new Robot();
+robot.keyPress(KeyEvent.VK_ENTER);
+robot.keyRelease(KeyEvent.VK_ENTER);
+robot.keyPress(KeyEvent.VK_CONTROL);
+robot.keyPress(KeyEvent.VK_V);
+robot.keyRelease(KeyEvent.VK_V);
+robot.keyRelease(KeyEvent.VK_CONTROL);
+robot.keyPress(KeyEvent.VK_ENTER);
+robot.keyRelease(KeyEvent.VK_ENTER);
+
+'To Identify the vif table'
+
+WebElement Table_data = driver.findElement(By.xpath('//table[@id=\'vif-table\']//tbody'))
+
+'To locate rows of table it will Capture all the rows available in the table'
+List rows_table = Table_data.findElements(By.tagName('tr'))
+
+'To calculate no of rows In table'
+int tot_rows_count = rows_table.size()
+
+println(tot_rows_count)
+
+driver.findElement(By.xpath(('//tbody[@id=\'vif-edit-table\']/tr[' + tot_rows_count) + ']/td')).click()
+
+WebUI.delay(5)
+
+//List<WebElement> Column = driver.findElement(By.xpath('//*[@id="vif-table"]/thead/tr/th[1]')).click()
+//println Column.size()
+//WebUI.delay(4)
+'To locate table'
+WebElement Table_of_child = driver.findElement(By.xpath('//table[@id=\'vif-table\']//tbody'))
+
+'To locate rows of table it will Capture all the rows available in the table'
+List rowstable = Table_of_child.findElements(By.tagName('tr'))
+
+'To calculate no of rows In table'
+int rows_of_child = rowstable.size()
+
+println(rows_of_child)
+
+//Loop:
+'Loop will execute for all the rows of the table'
+for (int row = rows_of_child; row > tot_rows_count; row--) {
+	//List<WebElement> Columns_row = rowstable.get(row).findElements(By.tagName('td'))
+	'To locate columns(cells) of that specific row'
+	WebUI.delay(3)
+
+	driver.findElement(By.xpath(('//tbody[@id=\'vif-edit-table\']/tr[' + row) + ']/td')).click()
+
+	//println(row)
+	'To calculate no of columns(cells) In that specific row' //int columns_count = Columns_row.size() //println(columns_count)
+}
+
+WebUI.delay(3)
+
+'To locate table'
+WebElement original_Table = driver.findElement(By.xpath('//table[@id=\'vif-table\']//tbody'))
+
+'To locate rows of table it will Capture all the rows available in the table'
+List data = original_Table.findElements(By.tagName('tr'))
+
+'To calculate no of rows In table'
+int count_of_data = data.size()
+
+println(count_of_data)
+
+WebUI.delay(5)
+
+
+
+
+

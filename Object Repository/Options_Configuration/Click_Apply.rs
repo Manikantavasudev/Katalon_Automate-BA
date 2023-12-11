@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Apply</name>
+   <tag></tag>
+   <elementGuidId>c9503ce5-f96e-4f6f-b2a1-1db8b4ae69a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;opConfigControllerConfigureApplyBtn&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;opConfigControllerConfigureApplyBtn&quot;]</value>
+      <webElementGuid>4659adf5-69c1-49c1-ac7e-b14ea2bfb95a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

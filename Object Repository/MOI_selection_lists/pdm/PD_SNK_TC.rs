@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PD_SNK_TC</name>
+   <tag></tag>
+   <elementGuidId>eb60a498-a798-4102-81d4-7b2096602644</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;PDMER_PROT_PS_SNK_CAP_UUT_PD2_PD3&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;PDMER_PROT_PS_SNK_CAP_UUT_PD2_PD3&quot;]</value>
+      <webElementGuid>8ff51588-79a5-4dd3-9d33-c358dc811817</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

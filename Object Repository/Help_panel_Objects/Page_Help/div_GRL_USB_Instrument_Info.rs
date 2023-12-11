@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GRL_USB_Instrument_Info</name>
+   <tag></tag>
+   <elementGuidId>45747abd-3262-4424-9bb9-850ba7791971</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class=&quot;help-container&quot;]/strong)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class=&quot;help-container&quot;]/strong)[1]</value>
+      <webElementGuid>2a3a3f4d-f964-49b0-80db-436153912a54</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

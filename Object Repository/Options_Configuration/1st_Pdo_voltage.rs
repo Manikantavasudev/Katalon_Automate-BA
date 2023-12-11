@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1st_Pdo_voltage</name>
+   <tag></tag>
+   <elementGuidId>b615353b-7996-424d-952d-d52aa3cd5ea5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@type=&quot;text&quot;])[90]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@type=&quot;text&quot;])[90]</value>
+      <webElementGuid>d2449d29-0131-48fc-b6c5-2b7bf1acecc2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

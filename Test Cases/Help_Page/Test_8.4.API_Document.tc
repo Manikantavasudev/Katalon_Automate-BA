@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase Will Verify Api Document link</description>
+   <name>Test_8.4.API_Document</name>
+   <tag>HelpPanel</tag>
+   <comment></comment>
+   <testCaseGuid>02ac9f81-a76a-4368-be38-e03e7ad7d494</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7402d8f3-5382-48ba-8070-b0692f51aa58</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://localhost:5001/Documentation/index.html'</defaultValue>
+      <description></description>
+      <id>7402d8f3-5382-48ba-8070-b0692f51aa58</id>
+      <masked>false</masked>
+      <name>Expected_Help_Desk_URL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_C2_Ip_Address_Textbox</name>
+   <tag></tag>
+   <elementGuidId>13d1985f-28f8-4e41-ba6a-011afaa88f2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.rc-select-search__field</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;main-mobile-container&quot;]/div[@class=&quot;right-border panel-padding connectiondetails-mobile&quot;]/div[4]/div[@class=&quot;ip-address-textbox rc-select rc-select-open rc-select-focused rc-select-combobox rc-select-enabled rc-select-allow-clear&quot;]/div[@class=&quot;rc-select-selection
+            rc-select-selection--single&quot;]/div[@class=&quot;rc-select-selection__rendered&quot;]/ul[1]/li[@class=&quot;rc-select-search rc-select-search--inline&quot;]/div[@class=&quot;rc-select-search__field__wrap&quot;]/input[@class=&quot;rc-select-search__field&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/input</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-select-search__field</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>192.168.255.1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;main-mobile-container&quot;]/div[@class=&quot;right-border panel-padding connectiondetails-mobile&quot;]/div[4]/div[@class=&quot;ip-address-textbox rc-select rc-select-open rc-select-focused rc-select-combobox rc-select-enabled rc-select-allow-clear&quot;]/div[@class=&quot;rc-select-selection
+            rc-select-selection--single&quot;]/div[@class=&quot;rc-select-selection__rendered&quot;]/ul[1]/li[@class=&quot;rc-select-search rc-select-search--inline&quot;]/div[@class=&quot;rc-select-search__field__wrap&quot;]/input[@class=&quot;rc-select-search__field&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='192.168.255.1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[4]/div/div/div/ul/li/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

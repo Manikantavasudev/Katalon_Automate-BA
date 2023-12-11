@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ok_contains</name>
+   <tag></tag>
+   <elementGuidId>4c7aff07-ffc8-4f38-8f7a-92d63b32da6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[contains(text(),'Ok')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[contains(text(),'Ok')]</value>
+      <webElementGuid>39ecf905-57e8-47b5-b7b8-f07be3485f1b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

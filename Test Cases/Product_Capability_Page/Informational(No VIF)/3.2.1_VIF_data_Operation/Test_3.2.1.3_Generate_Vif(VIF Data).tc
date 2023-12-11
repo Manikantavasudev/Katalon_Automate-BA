@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcases will generate xml files based on dut and it will cross verify the xml file data</description>
+   <name>Test_3.2.1.3_Generate_Vif(VIF Data)</name>
+   <tag>Product_Capability(Informational Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>bb8c2fa6-82dc-46cb-96fe-9ad4b2e02963</testCaseGuid>
+</TestCaseEntity>

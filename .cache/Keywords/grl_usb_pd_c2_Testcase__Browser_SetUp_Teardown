@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "965A09FA40250AF3E0F46E5850ADD546",
+  "keywordClasses": [
+    {
+      "name": "grl_usb_pd_c2_Testcase.Browser_SetUp_Teardown",
+      "keywordMethods": [
+        {
+          "name": "browserInitialization",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "browserTeardown",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

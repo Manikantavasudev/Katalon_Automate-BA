@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_channel_dropdown</name>
+   <tag></tag>
+   <elementGuidId>57934e73-2ee0-4a06-a2a5-ed30458e611c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '../../images/chartIcons/PNG/move-bottom.png']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@src = '../../images/chartIcons/PNG/move-bottom.png'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;dropdown&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../images/chartIcons/PNG/move-bottom.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>dropdown</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;SplitPane plotSplitPane vertical&quot;]/div[@class=&quot;Pane vertical Pane1&quot;]/div[@class=&quot;SplitPane plotSplitPane2 vertical&quot;]/div[@class=&quot;Pane vertical Pane2&quot;]/div[@class=&quot;panelplot-container&quot;]/div[1]/div[@class=&quot;setMaxHeight&quot;]/div[@class=&quot;markers-height&quot;]/div[@class=&quot;chart-obsolute-container&quot;]/div[1]/div[1]/div[@class=&quot;plot-toggle&quot;]/div[@class=&quot;plotlive_btn_div&quot;]/div[@class=&quot;custom-dropdown-btn&quot;]/button[@class=&quot;btn btn-primary&quot;]/div[@class=&quot;custom_dropdown_btn&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[4]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div[2]/div/button/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='dropdown']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+public enum PDAppMode
+    {
+        [Description("")]
+        PROTOCOL_DECODE = 0,
+        [Description("Power Delivery 3.0 Tests")]
+        COMPLIANCE_TEST_PD3 = 1,
+        [Description("Source Power Tests")]
+        USB_C_SOURCE_POWER_TEST = 2,
+        [Description("Quick Charge 4 Tests")]
+        QC4_TEST = 3,
+        [Description("PD2 Deterministic Tests")]
+        DETERMINISTIC_TESTS = 4,
+        [Description("USB-C Functional Tests")]
+        FUNCTIONAL_TESTS = 5,
+        [Description("PD2 Communication Engine Tests")]
+        COMMUNICATION_ENGINE_TESTS = 6,
+        [Description("DisplayPort Alternate Mode Tests")]
+        DP_ALT_MODE_TESTS = 7,
+        [Description("Quick Charger 3.0 Tests")]
+        QC_LEGACY = 8,
+        [Description("Thunderbolt Power Tests")]
+        TBT_POWER_TESTING = 9,
+        [Description("PD merged Tests")]
+        PD_Merged = 10,
+        [Description("MFG and WWC Tests")]
+        CHROME_BOOK_TEST = 11,
+        [Description("MFi Tests")]
+        MFI_TESTS = 12,
+        [Description("BC 1.2 Tests")]
+        BC_1_2_TESTS = 13,
+
+        [Description("")]
+        NONE = 14
+    }
+    public static string MOI_SubString(PDAppMode appmode)
+        {
+            string subString = "";
+            try
+            {
+                if (appmode == PDAppMode.BC_1_2_TESTS)
+                    subString = "BC_1_2";
+                if (appmode == PDAppMode.CHROME_BOOK_TEST)
+                    subString = "MFG_WWC";
+                if (appmode == PDAppMode.COMMUNICATION_ENGINE_TESTS)
+                    subString = "PD2";
+                if (appmode == PDAppMode.COMPLIANCE_TEST_PD3)
+                    subString = "PD3";
+                if (appmode == PDAppMode.DETERMINISTIC_TESTS)
+                    subString = "DETER";
+                if (appmode == PDAppMode.DP_ALT_MODE_TESTS)
+                    subString = "DP_ALT";
+                if (appmode == PDAppMode.FUNCTIONAL_TESTS)
+                    subString = "FUNC";
+                if (appmode == PDAppMode.MFI_TESTS)
+                    subString = "MFI";
+                if (appmode == PDAppMode.PD_Merged)
+                    subString = "PDMerged";
+                if (appmode == PDAppMode.QC4_TEST)
+                    subString = "QC4";
+                if (appmode == PDAppMode.QC_LEGACY)
+                    subString = "QC3";
+                if (appmode == PDAppMode.TBT_POWER_TESTING)
+                    subString = "TBT";
+                if (appmode == PDAppMode.USB_C_SOURCE_POWER_TEST)
+                    subString = "SPT";
+
+                if (subString == "") //If its empty - update the entire name :: 
+                    subString = appmode.ToString();
+            }
+            catch (Exception ex)
+            {
+                FWAppObj.FWHost.WriteToDebugLogger(DebugModeType.STATUS, "ModuleHelper -->> MOI_SubString()");
+            }
+            return subString;
+        }
+		
+		 public enum TestResult
+    {
+        FAIL = 0,
+        INCOMPLETE = 1,
+        SKIPPED = 2,
+        WARNING = 3,
+        PASS = 4,
+        NA = 5,
+        RUNNING = 6,
+        RESERVED = 7,
+        NOT_EXECUTED = 8,
+        ABORTED = 9,
+        //NEVER_EXECUTED =10,
+        UNKNOWN = 11,
+    }
+		
+		
+

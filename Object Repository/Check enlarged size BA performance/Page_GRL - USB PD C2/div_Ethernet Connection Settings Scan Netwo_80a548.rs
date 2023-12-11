@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ethernet Connection Settings Scan Netwo_80a548</name>
+   <tag></tag>
+   <elementGuidId>bbe6e317-6741-4f9f-959b-e08e1c0d01d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-border.panel-padding.connectiondetails-mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ee20432-0eaa-4d8a-a414-9ef51c4811d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-border panel-padding connectiondetails-mobile</value>
+      <webElementGuid>f2849732-d8b5-4232-8477-4ae45aa10296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ethernet Connection Settings Scan NetworkC2 IP AddressPlease enter/select C2 address192.168.4.39 ×ConnectSetup DiagramTool UpdatesUpdate FirmwareFirmware Update Instructions Update E-Load Firmware </value>
+      <webElementGuid>5ce66b26-e1d5-44a9-9763-d39ee9d89227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;main-mobile-container&quot;]/div[@class=&quot;right-border panel-padding connectiondetails-mobile&quot;]</value>
+      <webElementGuid>de7586c6-af12-470e-a0f9-41fd41b433c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>0c2b5713-dabb-45a0-9d04-b01ee066f1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::div[8]</value>
+      <webElementGuid>bb3e46eb-b5eb-4d75-8689-9ba17db9257b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/following::div[9]</value>
+      <webElementGuid>c60207f3-8646-4652-88d1-a4af8e2111ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>2be362bf-1cb3-4ef0-96ea-4bd85b30724d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ethernet Connection Settings Scan NetworkC2 IP AddressPlease enter/select C2 address192.168.4.39 ×ConnectSetup DiagramTool UpdatesUpdate FirmwareFirmware Update Instructions Update E-Load Firmware ' or . = 'Ethernet Connection Settings Scan NetworkC2 IP AddressPlease enter/select C2 address192.168.4.39 ×ConnectSetup DiagramTool UpdatesUpdate FirmwareFirmware Update Instructions Update E-Load Firmware ')]</value>
+      <webElementGuid>10347971-2683-43fd-bbde-1d6552f0b949</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

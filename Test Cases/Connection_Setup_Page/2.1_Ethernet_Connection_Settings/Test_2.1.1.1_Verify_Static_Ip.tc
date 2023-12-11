@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.This Testcase will verify Static Ip Address 
+2.This testcase will verify with given json ip and  dropdown ip if the Ip is matching it will proceed to connect with Tester</description>
+   <name>Test_2.1.1.1_Verify_Static_Ip</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>02e3a608-1dab-461a-b664-710bb5b6089d</testCaseGuid>
+</TestCaseEntity>

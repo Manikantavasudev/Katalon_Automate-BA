@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Time  33.967616760  T  21106.80msVbus  _20ad77_1_2</name>
+   <tag></tag>
+   <elementGuidId>4c87fba6-2709-492a-86c5-3cd6235fe001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chart_toolbar_merge_button > img.plot-toolbar-img.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='chart_toolbar_merge_button']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>94329d9d-a173-4fdf-a76e-13b813dd161f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../images/chartIcons/PNG/merge.png</value>
+      <webElementGuid>eb780eb0-349f-4455-a8f0-ad8db0a89c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>merge</value>
+      <webElementGuid>b80bc544-e5fa-4ff4-aea0-a2d14690758e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plot-toolbar-img undefined</value>
+      <webElementGuid>35f0fbf1-bf08-4f82-9924-c9051cee8c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chart_toolbar_merge_button&quot;)/img[@class=&quot;plot-toolbar-img undefined&quot;]</value>
+      <webElementGuid>feecc70c-ea60-44f0-9d0d-f7c40c2a9615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='chart_toolbar_merge_button']/img</value>
+      <webElementGuid>910e0a80-0e09-4bb9-bfc0-19d06e597ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='merge']</value>
+      <webElementGuid>40ce9a53-dc0a-4eba-aaf2-b392f07aac55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/button/img</value>
+      <webElementGuid>35aaea66-dc4d-4482-8428-55794e777957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../images/chartIcons/PNG/merge.png' and @alt = 'merge']</value>
+      <webElementGuid>caa42169-d29c-4cf3-a7e3-84d67c197514</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

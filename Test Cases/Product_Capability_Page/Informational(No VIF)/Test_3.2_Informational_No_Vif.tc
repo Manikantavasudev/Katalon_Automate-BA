@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check all the buttton and link and label Availability under the Informational Mode</description>
+   <name>Test_3.2_Informational_No_Vif</name>
+   <tag>Product_Capability(Informational Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>fecc5d4a-62c9-404d-b69f-66eb064af43a</testCaseGuid>
+</TestCaseEntity>

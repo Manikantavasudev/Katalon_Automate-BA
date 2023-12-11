@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify Load Trace File button Functionality</description>
+   <name>Test_5.1.10_Load_Trace_File</name>
+   <tag>Result</tag>
+   <comment></comment>
+   <testCaseGuid>fc703687-cee0-48ab-b811-34aa60a8f4e6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>813d4a79-83e1-45f7-b633-3685d17ef08f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Existing test results will be cleared from application if a new capture file is loaded.\nClick OK to load the capture file.\nClick Cancel to keep the existing test results'</defaultValue>
+      <description></description>
+      <id>813d4a79-83e1-45f7-b633-3685d17ef08f</id>
+      <masked>false</masked>
+      <name>exp_load_trace_popup_txt</name>
+   </variable>
+</TestCaseEntity>

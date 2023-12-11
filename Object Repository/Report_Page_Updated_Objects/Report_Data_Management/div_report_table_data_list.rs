@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_report_table_data_list</name>
+   <tag></tag>
+   <elementGuidId>a86a5cd9-b2e6-46bf-ac72-090a92c761c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;resultsmanager-modalcontainer&quot;]/table/tbody/tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;resultsmanager-modalcontainer&quot;]/table/tbody/tr</value>
+   </webElementProperties>
+</WebElementEntity>

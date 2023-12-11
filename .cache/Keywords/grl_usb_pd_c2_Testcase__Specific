@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "434D33A8AC4DFDA71DAF48228B49CBDB",
+  "keywordClasses": [
+    {
+      "name": "grl_usb_pd_c2_Testcase.Specific",
+      "keywordMethods": [
+        {
+          "name": "forDRPMOISelection",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "forConsumerOnly",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "forCable",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ProviderOnly",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

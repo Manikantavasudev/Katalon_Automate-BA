@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\C2Testing",
+    "\\C2Testing\\bin",
+    "\\C2Testing\\obj",
+    "\\C2Testing\\XMLHelper",
+    "\\C2Testing\\XMLValidator"
+  ],
+  "SelectedNode": "\\C2Testing\\XMLValidator\\XmlValidation.cs",
+  "PreviewInSolutionExplorer": false
+}

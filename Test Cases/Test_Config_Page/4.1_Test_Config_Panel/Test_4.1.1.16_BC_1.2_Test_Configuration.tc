@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify B.C 1.2 Tests  Test MOI  functionality for all the Dut</description>
+   <name>Test_4.1.1.16_BC_1.2_Test_Configuration</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>f919c987-d7e9-4d2d-9d13-1c8da3dfe558</testCaseGuid>
+</TestCaseEntity>

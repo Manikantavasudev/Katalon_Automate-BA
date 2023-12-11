@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>long_delay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>short_delay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1. GRL-SPL test cable(Vconn pass-through) is mandatory for running test cases in Compliance mode. Tethered and cable DUT\'s can be directly connected to Tester. \n2. Primary test port of DUT should be connected to Port 1 of Tester.\n3. To run test cases with standard USB - C cable, select informational test mode and choose the test cable type'</initValue>
+      <name>cable_selection_help_icon</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1'</initValue>
+      <name>timeout_popup_val</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>huge_delay</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

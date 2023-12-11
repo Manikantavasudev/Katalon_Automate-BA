@@ -1,0 +1,10 @@
+
+{
+    "Help_string_value": {
+   "Expected_text_about_app" :"GRL USB PD C2: The only instrument you need for USB Type-C Power Delivery and Alt Mode compliance testing.",
+   "Expected_description_para2" :"GRL-C2 provides an automated, efficient, and fully-integrated way perform all required USB Power Delivery version 3.0 and 2.0 and related tests over the USB Type-C connector, as well as PHY test automation for USB Type-C Alternate Modes.GRL-C2 automates all required USB PD compliance tests for power providers (chargers), consumers, dual-role ports, and cable and adapter E-Markers; and is the only solution available that integrates Qualcomm Quick Charge 4+ and Intel Thunderbolt-specific test items. GRL-C2 also incorporates analyzer capability to sniff PD traffic.GRL-C2 integrates all required USB PD tests into a single 2-port tester, including all tests supported on GRL’s USB-IF approved first generation solution introduced in 2015. Each port can be configured independently as a PD Provider or Consumer. All other PD Protocol and Power tests are fully integrated, removing the need for external electronic loads.",
+   "Expected_description_para1" :"GRL-USB-PD-C2 (GRL-C2) is the only solution available that supports all compliance test specifications for USB Power Delivery 3.0 and USB Type-C Alternate Mode designs, and enables product developers to quickly run full compliance and validation test suites at the push of a button."
+    
+    }
+    
+}

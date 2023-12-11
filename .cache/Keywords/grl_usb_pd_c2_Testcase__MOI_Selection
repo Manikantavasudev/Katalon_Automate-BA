@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "41FB96DD753F335ED0D3497337B84C8C",
+  "keywordClasses": [
+    {
+      "name": "grl_usb_pd_c2_Testcase.MOI_Selection",
+      "keywordMethods": [
+        {
+          "name": "forDRPMOISelection",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "forConsumerOnly",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "forCable",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ProviderOnly",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

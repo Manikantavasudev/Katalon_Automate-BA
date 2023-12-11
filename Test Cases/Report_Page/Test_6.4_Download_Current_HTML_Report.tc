@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check Download Current HTML Report button and report functionality</description>
+   <name>Test_6.4_Download_Current_HTML_Report</name>
+   <tag>Report</tag>
+   <comment></comment>
+   <testCaseGuid>1f578163-cfa8-4b2c-acae-3c8b5d499170</testCaseGuid>
+   <variable>
+      <defaultValue>'GRL_REPORT'</defaultValue>
+      <description></description>
+      <id>b7818441-7c64-4bd4-a5aa-64d08c205aeb</id>
+      <masked>false</masked>
+      <name>Project_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a95aca6-1bd6-4803-95f9-6d33a8d3a2ff</id>
+      <masked>false</masked>
+      <name>Report_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ec41144-8018-4ffd-bd10-07ebb2688bc1</id>
+      <masked>false</masked>
+      <name>Edited_Report_Name</name>
+   </variable>
+</TestCaseEntity>

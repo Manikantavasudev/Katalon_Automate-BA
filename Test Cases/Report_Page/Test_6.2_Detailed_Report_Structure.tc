@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check Detailed Report Structure Along with UI data cross check</description>
+   <name>Test_6.2_Detailed_Report_Structure</name>
+   <tag>Report</tag>
+   <comment></comment>
+   <testCaseGuid>76e165cc-632c-4e6c-af2b-b04e302c0d75</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_4.1.1.19_Start_Stop_Execution</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00bd4371-30c8-4b0a-9b78-264aee3b57b5</testCaseGuid>
+   <variable>
+      <defaultValue>'rgba(255, 0, 0, 1)'</defaultValue>
+      <description></description>
+      <id>d42b689b-1a93-48a5-b4c7-e24e9c897534</id>
+      <masked>false</masked>
+      <name>redcolor</name>
+   </variable>
+</TestCaseEntity>

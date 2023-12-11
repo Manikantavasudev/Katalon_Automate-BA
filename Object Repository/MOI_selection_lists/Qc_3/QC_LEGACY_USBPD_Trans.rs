@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>QC_LEGACY_USBPD_Trans</name>
+   <tag></tag>
+   <elementGuidId>1a2bbd8b-21fc-4c44-8417-23f239d419a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;QC_LEGACY_USBPD_Trans&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;QC_LEGACY_USBPD_Trans&quot;]</value>
+      <webElementGuid>affc57c4-955d-4d89-be02-ad5c2c263192</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

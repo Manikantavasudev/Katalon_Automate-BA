@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Time  33.967616760  T  21106.80msVbus  _20ad77_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>5fee81ee-e231-45ea-b3c2-c7b977bf9f73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chart_toolbar_unmerge_button > img.plot-toolbar-img.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='chart_toolbar_unmerge_button']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>43676777-f0a3-415c-93d3-8ec608b6666a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../images/chartIcons/PNG/unmerge.png</value>
+      <webElementGuid>4bef17d9-cd71-47f5-bec6-97a24a9d23c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>unmerge</value>
+      <webElementGuid>8a6ea678-89e2-4177-94fe-cebdb71fcab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plot-toolbar-img undefined</value>
+      <webElementGuid>143771c6-9c9f-4974-b5e4-6eb30a9e4280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chart_toolbar_unmerge_button&quot;)/img[@class=&quot;plot-toolbar-img undefined&quot;]</value>
+      <webElementGuid>94f7c9b3-11be-42c0-86b8-05852a36abe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='chart_toolbar_unmerge_button']/img</value>
+      <webElementGuid>cfc17d74-d3ca-4cd3-89cd-d7da7ebbcef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='unmerge']</value>
+      <webElementGuid>7316303f-d831-40fc-87bc-cecf70d746f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/button/img</value>
+      <webElementGuid>8bb05a6d-a777-41ab-af0e-c1596531f96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../images/chartIcons/PNG/unmerge.png' and @alt = 'unmerge']</value>
+      <webElementGuid>f0fe2201-52ca-45c5-9857-7d06174c1f21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

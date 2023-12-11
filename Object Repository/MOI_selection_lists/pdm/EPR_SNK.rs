@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EPR_SNK</name>
+   <tag></tag>
+   <elementGuidId>a6c7570b-eded-430a-9bfd-3f0e7d446365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;PDMER_EPR_SNK&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;PDMER_EPR_SNK&quot;]</value>
+      <webElementGuid>165108b4-b7b5-43bc-bcc4-d18228447c8c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_pop_up</name>
+   <tag></tag>
+   <elementGuidId>ce8732fe-dd3e-4188-8fec-0223fe1899a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class=&quot;toggle-switch&quot;])[2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class=&quot;toggle-switch&quot;])[2]</value>
+      <webElementGuid>6e2469fc-a628-4cc0-ab60-12804e0c0b67</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TD.PD.SRC.E16 PDO Transition_rc-tree-checkbox</name>
+   <tag></tag>
+   <elementGuidId>025ac991-a1d5-4e90-b8c4-c0a6430f011a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/ul/li/ul/li[3]/ul/li[23]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>452e0dc5-c106-408a-a045-fc8287105dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-tree-checkbox</value>
+      <webElementGuid>8e81d4c6-888a-4697-8679-852898d790bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-area&quot;]/div[@class=&quot;app-area-bottom&quot;]/div[@class=&quot;main-area&quot;]/div[@class=&quot;scroll-area&quot;]/div[1]/div[@class=&quot;scroll-content-sticky&quot;]/div[@class=&quot;scroll-panel panel-container mobile-container&quot;]/div[@class=&quot;right-border panel-padding test-selectioncontainer&quot;]/div[@class=&quot;c2-treeview-nodes test-selection-treeview-container&quot;]/div[@class=&quot;scroll&quot;]/ul[@class=&quot;rc-tree&quot;]/li[@class=&quot;C2 Test Cases rc-tree-treenode-switcher-open rc-tree-treenode-checkbox-indeterminate&quot;]/ul[@class=&quot;rc-tree-child-tree rc-tree-child-tree-open&quot;]/li[@class=&quot;PD2 Deterministic Tests rc-tree-treenode-switcher-open&quot;]/ul[@class=&quot;rc-tree-child-tree rc-tree-child-tree-open&quot;]/li[@class=&quot;rc-tree-treenode-switcher-close&quot;]/span[@class=&quot;rc-tree-checkbox&quot;]</value>
+      <webElementGuid>3b8198f5-35fc-4ff6-a528-be0eed6ffdeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/ul/li/ul/li[3]/ul/li[23]/span[2]</value>
+      <webElementGuid>d85ece68-1ea0-4c91-848e-946a95491dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[23]/span[2]</value>
+      <webElementGuid>1ccc4700-2946-4d34-917a-7cc65dc77cde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

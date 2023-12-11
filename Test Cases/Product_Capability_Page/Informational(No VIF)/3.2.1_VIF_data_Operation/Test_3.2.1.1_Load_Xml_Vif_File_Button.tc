@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will Load the XML file and it will cross check the file name and it will cross verify the xml file content</description>
+   <name>Test_3.2.1.1_Load_Xml_Vif_File_Button</name>
+   <tag>Product_Capability(Informational Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>22eeff0a-bc26-497c-b8ac-3c8a34b75e41</testCaseGuid>
+</TestCaseEntity>

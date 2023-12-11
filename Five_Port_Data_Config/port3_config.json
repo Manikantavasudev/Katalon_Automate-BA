@@ -1,0 +1,282 @@
+{
+   "Load_Vif_Field":"YES",
+   
+   "Vif_File_Path":"C:\\GRL\\C2AutomationBuild_0.8.2Version\\V.3.2.4.0\\SiliConch-Systems-Private-Limited__Mudra1(WLCSP-4)__1.1__0.xml",
+   
+   "Dut_Type":"Dual Role Power[DRP]",
+   
+   "Golden_Reports_Path":"D:\\golden path\\Siliconch\\New_Run1_Rep0_2021_09_23-07_04_14",
+   
+   "MOI_List_Options":[
+       "Power Delivery 3.0 Tests-v1.19",
+      "PD2 Communication Engine Tests-v1.09",
+      "PD2 Deterministic Tests-v1.14",
+      "USB-C Functional Tests-v0.82",
+      "DisplayPort Alternate Mode Tests-v4",
+      "BC1.2 DCP Sink Tests",
+      "Source Power Tests-v0.74",
+       "USB Power Delivery Compliance Test Specification-v1.4 V4 OR",
+      "Quick Charger 3.0 Tests-v1.4",
+      "Quick Charge 4 Tests-v1.0",
+      "Thunderbolt Power Tests-Rev1.5 Ver0.9",  
+       "Custom OEM Tests-v1.0",
+      "QC3+ Tests-v1.2"
+   ],
+   
+   "MOI_List":[
+         "Power Delivery 3.0 Tests-v1.19",
+      "PD2 Communication Engine Tests-v1.09",
+      "PD2 Deterministic Tests-v1.14",
+      "USB-C Functional Tests-v0.82",
+       "USB Power Delivery Compliance Test Specification-v1.4 V4 OR"
+      
+      
+
+   ],
+   
+   "All_Dut_Type_Except_Cable":{
+   
+      "Power_Delivery_3_Edit_Config":"NO",
+      "FR_Swap_AUTO_Box_Connected_Checkbox":"YES",
+      
+      
+      
+      "PD2_Communication_Engine_Edit_Config":"NO",
+      "PD2_Comm_Noise_Type_Options":[
+         "Two Tone Noise",
+         "Square Wave Noise"
+      ],
+      "PD2_Comm_Noise_Type_Drpdwn_Val":"Two Tone Noise",
+      
+      
+          
+      "USB_Functional_Edit_Config":"NO",
+      "Enable_USB_Data_Validation_Checkbox":"YES",
+      "Automate_USB_Data_Validation_Checkbox":"YES",
+      "Is_Battery_Connected_to_DUT":"YES",
+      
+      
+      
+      
+      "Source_Power_Edit_Config":"NO",
+      "Source_Power_Port_Type_Options":[
+         "Single_Port",
+         "Two_Port"
+      ],
+      "Source_Power_Port_Type_Drpdwn_Val":"Single_Port",
+      
+      
+      
+      "PD_Merged_Edit_Config":"YES",
+      "PD_Merged_Noise_Type_Options":[
+         "Two Tone Noise",
+         "Square Wave Noise"
+      ],
+      "PD_Merged_Noise_Type_Drpdwn_Val":"Two Tone Noise",
+      "Connect_EPR_Test_Fixture_Checkbox":"YES",
+      
+      
+      
+      "Quick_Charger_3_Edit_Config":"YES",
+      "QC3_Qc_2_3_Dut_Type_Options":[
+         "QC2",
+         "QC3",
+         "QC3Plus",
+         "QC4Plus"
+      ],
+      "QC3_Qc_2_3_Dut_Type_Drpdwn_val":"QC4Plus",
+      "QC3_Connector_Type_Options":[
+         "TypeA_TypeC",
+         "TypeC_TypeC"
+      ],
+      "QC3_Connector_Type_Drpdwn_Val":"TypeC_TypeC",
+      "QC3_Connector_Type_Cable_Options":[
+         "Spl_Emarker_Cable",
+         "Standard_Cable"
+      ],
+      "QC3_Connector_Type_Cable_Drpdwn_Val":"Spl_Emarker_Cable",
+      "QC3_Ports_Options":[
+         "Single_Port",
+         "Two_Port"
+      ],
+      "QC3_Ports_Drpdwn_Val":"Single_Port",
+      "QC3_PD_Support_Options":[
+         "Non-PD",
+         "PD"
+      ],
+      "QC3_PD_Support_Drpdwn_Val":"PD",
+      "QC3_Qc_Dut_Type_Options":[
+         "Power_Adaptor",
+         "Power_bank",
+         "Car_Charger"
+      ],
+      "QC3_Qc_Dut_Type_Drpdwn_Val":"Power_Adaptor",
+      "QC3_Cable_IR_drop_Textbox":"0.22",
+      "QC3_5V_Max_Current_Textbox":"3",
+      "QC3_9V_Max_Current_Textbox":"3",
+      "QC3_12V_Max_Current_Textbox":"2.25",
+      "QC3_20V_Max_Current_Checkbox":"NO",
+      "QC3_20V_Max_Current_Textbox":"3",    
+      "QC3_Dut_Rated_Power_Textbox":"27",
+      "QC3_Input_Supply_Voltage_Textbox":"0",
+      
+      
+      
+      "Quick_Charger_4_Edit_Config":"YES",
+      "QC4_Dut_Type_Options":[
+         "QC4",
+         "QC4Plus",
+         "QC5"
+      ],
+      "QC4_Dut_Type_Drpdwn_Val":"QC4Plus",
+      "QC4_Room_Temprature_Textbox":"24",
+      
+      
+      
+      "Thunderbolt_Power_Tests_Edit_Config":"NO",
+      "Thunderbolt_Number_Of_Ports_Options":[
+         "Single_Port",
+         "Two_Port"
+      ],
+      "Thunderbolt_Number_Of_Ports_Drpdwn_Val":"Single_Port",
+      "Thunderbolt_Powered_Type_Options":[
+         "Self_Powered",
+         "Bus_Powered"
+      ],
+      "Thunderbolt_Powered_Type_Drpdwn_Val":"Self_Powered",
+      "Thunderbolt_Device_Type_Options":[
+         "Host",
+         "Device"
+      ],
+      "Thunderbolt_Device_Type_Drpdwn_Val":"Device",
+      "Thunderbolt_TBT_Version_Options":[
+         "TBT_3",
+         "TBT_4"
+      ],
+      "Thunderbolt_TBT_Version_Drpdwn_Val":"TBT_3",
+      "Thunderbolt_Stress_Test_Timer_Textbox":"25",
+      "Thunderbolt_PortA_CapMisMatch_Checkbox":"YES",
+      "Thunderbolt_PortB_CapMisMatch_Checkbox":"YES",
+      "Thunderbolt_PortA_GiveBackFlag_Checkbox":"YES",
+      "Thunderbolt_PortB_GiveBackFlag_Checkbox":"YES",
+      
+      
+      
+      "DisplayPort_Alternate_Mode_Edit_Config":"NO",
+      "DisplayPort_DP_Device_Type_Options":[
+         "DP_Source",
+         "DP_Sink"
+      ],
+      "DisplayPort_DP_Device_Type_Drpdwn_Val":"DP_Sink",
+      "DisplayPort_DP_Device_Capability_Options":[
+         "UFP_Source",
+         "UFP_Sink",
+         "DFP_Source",
+         "DFP_Sink"
+      ],
+      "DisplayPort_DP_Device_Capability_Drpdwn_Val":"DFP_Source",
+      "DisplayPort_DP_Sink_Type_Options":[
+         "TypeC_DP_Adaptor",
+         "TypeC_Non_DP_Adaptor"
+      ],
+      "DisplayPort_DP_Sink_Type_Drpdwn_Val":"TypeC_DP_Adaptor",
+      
+      
+      
+      "BC12_DCP_Sink_Edit_Config":"NO",
+      "BC12_DCP_Secondary_Detection_Options":[
+         "Implemented",
+         "Not_Implemented"
+      ],
+      "BC12_DCP_Secondary_Detection_Drpdwn_Val":"Implemented",
+      "BC12_DCP_Maximum_Current_Textbox":"0"
+   },
+   
+   "Cable_Type_Dut":{
+   
+      "Power_Delivery_3_Tests_Edit_Config":"NO",
+      "Power_Delivery_3_Vconn_Voltage_Options":[
+         "_5_75V",
+         "_2_75V",
+         "_4_25V",
+         "_4_75V"
+      ],
+      "Power_Delivery_3_Vconn_Voltage_Drpdwn_Val":"_2_75V",
+      
+      
+      
+      "PD2_Communication_Engine_Edit_Config":"NO",
+      "PD2_Comm_Noise_Type_Options":[
+         "Two Tone Noise",
+         "Square Wave Noise"
+      ],
+      "PD2_Comm_Noise_Type_Drpdwn_Val":"Two Tone Noise",
+      "PD2_Comm_Vconn_Voltage_Options":[
+         "_5_75V",
+         "_2_75V",
+         "_4_25V",
+         "_4_75V"
+      ],
+      "PD2_Comm_Vconn_Voltage_Drpdwn_Val":"_4_75V",
+      
+      
+      
+      "PD2_Deterministic_Edit_Config":"NO",
+      "PD2_Deter_Vconn_Voltage_Options":[
+         "_2_75V",
+         "_5_75V"
+      ],
+      "PD2_Deter_Vconn_Voltage_Drpdwn_Val":"_5_75V",
+      
+      
+      
+      "USB_Functional_Edit_Config":"NO",
+      "Enable_USB_Data_Validation_Checkbox":"YES",
+      "Automate_USB_Data_Validation_Checkbox":"YES",
+    
+    
+    
+      "Source_Power_Edit_Config":"NO",
+      "Source_Power_Port_Type_Options":[
+         "Single_Port",
+         "Two_Port"
+      ],
+      "Source_Power_Port_Type_Drpdwn_Val":"Single_Port",
+      
+      
+      
+      "PD_Merged_Edit_Config":"NO",
+      "PD_Merged_Cable_End_Options":[
+         "End1",
+         "End2"
+      ],
+      "PD_Merged_Cable_End_Drpdwn_Val":"End1",
+      "PD_Merged_Noise_Type_Options":[
+         "Two Tone Noise",
+         "Square Wave Noise"
+      ],
+      "PD_Merged_Noise_Type_Drpdwn_Val":"Two Tone Noise",
+      "Connect_EPR_Test_Fixture_Checkbox":"YES",
+      
+      
+      
+      "DisplayPort_Alternate_Mode_Edit_Config":"NO",
+      "DisplayPort_DP_Device_Type_Options":[
+         "DP_Source",
+         "DP_Sink"
+      ],
+      "DisplayPort_DP_Device_Type_Drpdwn_Val":"DP_Sink",
+      "DisplayPort_DP_Device_Capability_Options":[
+         "UFP_Source",
+         "UFP_Sink",
+         "DFP_Source",
+         "DFP_Sink"
+      ],
+      "DisplayPort_DP_Device_Capability_Drpdwn_Val":"DFP_Source",
+      "DisplayPort_DP_Sink_Type_Options":[
+         "TypeC_DP_Adaptor",
+         "TypeC_Non_DP_Adaptor"
+      ],
+      "DisplayPort_DP_Sink_Type_Drpdwn_Val":"TypeC_DP_Adaptor"
+   }
+}

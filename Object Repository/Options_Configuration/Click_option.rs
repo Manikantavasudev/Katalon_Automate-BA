@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_option</name>
+   <tag></tag>
+   <elementGuidId>bd5bca4a-3def-4e49-b23b-9f503192a6b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt=&quot;Options&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Options&quot;]</value>
+      <webElementGuid>a75749cf-6e19-47b2-806d-7a88411f769a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Options&quot;]</value>
+      <webElementGuid>65ae2f87-536d-47db-8026-7d3415f06316</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

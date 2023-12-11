@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FRS_SNK</name>
+   <tag></tag>
+   <elementGuidId>c2ea6b7a-d05a-477a-8970-a78358a190fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;PDMER_FRS_SNK&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;PDMER_FRS_SNK&quot;]</value>
+      <webElementGuid>b89361b8-e269-48cd-a3a3-d2b7a1b51fd4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

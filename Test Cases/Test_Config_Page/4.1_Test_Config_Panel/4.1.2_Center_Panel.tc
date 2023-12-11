@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify Center Panel section Functionality including popup checkbox and Textbox and Tooltip Info </description>
+   <name>4.1.2_Center_Panel</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>6914def4-f04b-4bdc-865a-e0adbd73ff39</testCaseGuid>
+   <variable>
+      <defaultValue>'This feature can be used only in Informational Mode\nEnable this checkbox to disable all pop-up during test execution, else disable it\nNote: Test results will vary if checkbox is enabled'</defaultValue>
+      <description></description>
+      <id>fa0f79eb-406f-4211-82d7-1e374c33baf5</id>
+      <masked>false</masked>
+      <name>popup_timer_tooltip_info</name>
+   </variable>
+   <variable>
+      <defaultValue>'Additional information will be added to test case capture. So test capture size will be comparatively more. This is recommended only for debug purpose.'</defaultValue>
+      <description></description>
+      <id>bcecca03-0094-4f3f-98df-53ccd663ee71</id>
+      <masked>false</masked>
+      <name>enable_debug_tooltip_info</name>
+   </variable>
+</TestCaseEntity>

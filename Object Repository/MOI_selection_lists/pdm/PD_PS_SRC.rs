@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PD_PS_SRC</name>
+   <tag></tag>
+   <elementGuidId>23300d77-d444-4492-8587-33fa1dda19c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;PDMER_PROT_PS_SRC_CAP_UUT_PD2_PD3&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;PDMER_PROT_PS_SRC_CAP_UUT_PD2_PD3&quot;]</value>
+      <webElementGuid>99df2338-f42f-4241-886d-a0c0ebb508bc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

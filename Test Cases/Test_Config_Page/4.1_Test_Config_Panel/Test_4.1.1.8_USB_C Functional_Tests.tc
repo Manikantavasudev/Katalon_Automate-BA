@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will check USB_C Functional Tests  MOI Functionality for all the dut</description>
+   <name>Test_4.1.1.8_USB_C Functional_Tests</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>dc7e9961-f12a-4095-b523-e284b986ea0c</testCaseGuid>
+   <variable>
+      <defaultValue>'Refer above setup image and enter the URL displayed in the Golden device(Google pixel phone).\n(Example : http://192.168.255.5:5324)'</defaultValue>
+      <description></description>
+      <id>3887db32-0409-43a8-a977-f1868cd04c21</id>
+      <masked>false</masked>
+      <name>device_url_tooltip_info</name>
+   </variable>
+   <variable>
+      <defaultValue>'TD 4.11.2 Sink Dead Battery Test\nPlease visually inspect the presence of battery in PUT. Enable this check box if battery is available else, disable it.'</defaultValue>
+      <description></description>
+      <id>0a424046-9977-49af-9715-dd20f1d616d4</id>
+      <masked>false</masked>
+      <name>battery_conn_tooltip_info</name>
+   </variable>
+</TestCaseEntity>

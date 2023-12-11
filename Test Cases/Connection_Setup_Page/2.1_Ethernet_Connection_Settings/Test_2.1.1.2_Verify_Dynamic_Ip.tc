@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.This testcase will verify Dynamic Ip address
+
+2.This testcase will cross verify with dropdown ip address and User provided Dynamic ip address</description>
+   <name>Test_2.1.1.2_Verify_Dynamic_Ip</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>96395396-2921-49dc-be00-0f4c717e9726</testCaseGuid>
+</TestCaseEntity>

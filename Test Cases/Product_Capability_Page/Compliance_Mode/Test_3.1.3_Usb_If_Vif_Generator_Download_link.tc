@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will check USB IF VIF Generator Download link and it will cross verify the  link URL [https://www.usb.org/document-library/usb-vendor-info-file-generator] and again Browser will navigate to the default URL[http://localhost:5001/]</description>
+   <name>Test_3.1.3_Usb_If_Vif_Generator_Download_link</name>
+   <tag>Product_Capability(Compliance Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>c1d880df-74dd-4dbd-b91b-6f056acba413</testCaseGuid>
+</TestCaseEntity>

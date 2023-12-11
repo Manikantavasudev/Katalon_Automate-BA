@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FRS_SRC</name>
+   <tag></tag>
+   <elementGuidId>edf8a242-fbd4-40c4-8fea-831c49f5c7a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;PDMER_FRS_SRC&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;PDMER_FRS_SRC&quot;]</value>
+      <webElementGuid>4c4ab785-5746-41ff-88dd-965c3b231abc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

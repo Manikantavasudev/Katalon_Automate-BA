@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will Verify Granite River Labs Support Desk link</description>
+   <name>Test_8.1.Granite_River_Labs_Support_Desk</name>
+   <tag>HelpPanel</tag>
+   <comment></comment>
+   <testCaseGuid>cc4755f9-ef53-4a99-b423-fc798c0f286b</testCaseGuid>
+   <variable>
+      <defaultValue>'https://graniteriverlabs.freshdesk.com/support/login/'</defaultValue>
+      <description></description>
+      <id>1c943d20-e904-4af3-b4a4-f53a1853737a</id>
+      <masked>false</masked>
+      <name>Expected_Help_Desk_URL</name>
+   </variable>
+</TestCaseEntity>

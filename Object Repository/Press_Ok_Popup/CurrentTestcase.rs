@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CurrentTestcase</name>
+   <tag></tag>
+   <elementGuidId>874c90f7-d85f-41b4-82f7-105b9d59f480</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@id=&quot;CurrentRunningTest&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@id=&quot;CurrentRunningTest&quot;])[2]</value>
+      <webElementGuid>27b12f49-4a11-4045-9502-032e396fc2e5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

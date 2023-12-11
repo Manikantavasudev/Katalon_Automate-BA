@@ -1,0 +1,48 @@
+{
+   "Expand_Test_List":{
+      "Top":"C2 Test Cases",
+      "Tree_Switcher_Start01":{
+         "Tree_Switcher_1":"USB Power Delivery Compliance Test Specification",
+         "Tree_Sub_Switcher_1_01":"PDMER_PHY_TEST_ALL_UUT",
+         "Tree_Sub_Switcher_1_14":"PDMER_PROT_PS_SRC_CAP_UUT_PD2_PD3"
+      },
+      "Tree_Switcher_Start02":{
+         "Tree_Switcher_2":"PD2 Communication Engine Tests",
+         "Tree_Sub_Switcher_2_01":"TDA.2.1.1.1 BMC PHY TX EYE",
+         "Tree_Sub_Switcher_2_02":"TDA.2.1.1.2 BMC PHY TX BIT",
+         "Tree_Sub_Switcher_2_03":"TDA.2.1.2.2 BMC PHY RX INT REJ",
+         "Tree_Sub_Switcher_2_04":"TDA.2.1.2.1 BMC PHY RX BUSIDL",
+         "Tree_Sub_Switcher_2_16":"TDA.2.3.1.1 POW SRC LOAD P PC",
+         "Tree_Sub_Switcher_2_17":"TDA.2.3.2.1 POW SRC TRANS P PC"
+      },
+      "Tree_Switcher_Start04":{
+         "Tree_Switcher_4":"USB-C Functional Tests",
+         "Tree_Sub_Switcher_4_02":"TD.4.1.1 Initial Voltage Test",
+         "Tree_Sub_Switcher_4_03":"TD.4.2.1 Source Connect Sink Test",
+         "Tree_Sub_Switcher_4_04":"TD.4.2.2 Source Connect SNKAS Test"
+      },
+      "Tree_Switcher_Start05":{
+         "Tree_Switcher_5":"Source Power Tests",
+         "Tree_Sub_Switcher_5_01":"SPT.1 Load Test",
+         "Tree_Sub_Switcher_5_05":"SPT.5 Over Current Test"
+      },
+      "Tree_Switcher_Start07":{
+         "Tree_Switcher_7":"Quick Charger 3.0 Tests",
+         "Tree_Sub_Switcher_7_01":"QC_LEGACY_Shorting",
+         "Tree_Sub_Switcher_7_02":"QC_LEGACY_HVDCP",
+         "Tree_Sub_Switcher_7_10":"QC_LEGACY_USBPD_Trans"
+      },
+      "Tree_Switcher_Start08":{
+         "Tree_Switcher_8":"Quick Charge 4 Tests",
+         "Tree_Sub_Switcher_8_03":"QC4.TID.3 Current Limit",
+         "Tree_Sub_Switcher_8_10":"QC4.TID.10 Adaptor Collapse Behavior",
+         "Tree_Sub_Switcher_8_13":"QC4.TID.13 Voltage and Current",
+         "Tree_Sub_Switcher_8_17":"QC4.TID.17 QC Mode Transition Check",
+         "Tree_Sub_Switcher_8_27":"QC4.IOP.09 PPS Adapter Collapse"
+      },
+      "Tree_Switcher_Start11":{
+         "Tree_Switcher_11":"Custom OEM Tests",
+         "Tree_Sub_Switcher_11_01":"Custom.OEM.TD.4.9.2 OCP and OVP Test"
+      }
+   }
+}

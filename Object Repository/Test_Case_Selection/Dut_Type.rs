@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dut_Type</name>
+   <tag></tag>
+   <elementGuidId>33b8fbcc-14a9-4577-a458-4a64995cd3ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='pcPort1DutTypeComboBox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='pcPort1DutTypeComboBox']</value>
+      <webElementGuid>dc3a3ec9-6b70-4e4e-8dd8-e07cf12015d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

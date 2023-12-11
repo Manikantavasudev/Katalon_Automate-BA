@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.This Testcase will Check Scan network Features including Static and Dynamic Ip address function
+2.This testcase will  collect all the dynamically listed ip and it will verify the Tester Status</description>
+   <name>Test_2.1.1_Verify_Scan_Network</name>
+   <tag>Connection_Setup</tag>
+   <comment></comment>
+   <testCaseGuid>2a11c104-5a27-4b3d-a2c8-613115b5415c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify PD Merged Test MOI  functionality for all the Dut</description>
+   <name>Test_4.1.1.10_PD_Merged_Tests(Beta)</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>c337d796-e60e-4a14-ae43-48eeb408b642</testCaseGuid>
+</TestCaseEntity>

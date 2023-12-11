@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will check Power Delivery 3 Tests MOI Functionality for all the  dut</description>
+   <name>Test_4.1.1.5_Power_Delivery_3_Tests</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>38ff567a-23c9-4037-be3c-ed9710d7239c</testCaseGuid>
+   <variable>
+      <defaultValue>'Select this option if FR_Swap AUTO test fixture is available in the test setup\nThis test fixture is required for running Fast Role Swap test cases when DUT acts as Initial Source \nFast Role Swap test results are for informational only for now and these are not mandatory for certification testing'</defaultValue>
+      <description></description>
+      <id>95ff5ff6-f2cd-4ada-a0aa-5e079936e220</id>
+      <masked>false</masked>
+      <name>fr_swap_tooltip_info</name>
+   </variable>
+</TestCaseEntity>

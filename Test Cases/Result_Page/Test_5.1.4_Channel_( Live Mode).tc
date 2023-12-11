@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase Will Verify Channel(Live Mode) Dropdown Options</description>
+   <name>Test_5.1.4_Channel_( Live Mode)</name>
+   <tag>Result</tag>
+   <comment></comment>
+   <testCaseGuid>de3f157a-45de-4188-b6f2-99105c0f83ba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b3e97ba-85a7-4751-9b8f-86e998cabea0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['PORT1-VBUS(V)','PORT1-VBUS(A)','PORT1-CC1(V)','PORT1-CC2(V)']</defaultValue>
+      <description></description>
+      <id>3b3e97ba-85a7-4751-9b8f-86e998cabea0</id>
+      <masked>false</masked>
+      <name>exp_channel_list</name>
+   </variable>
+</TestCaseEntity>

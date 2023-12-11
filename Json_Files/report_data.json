@@ -1,0 +1,72 @@
+{
+  "report_page_data": {
+    "Detailed_Report_Vif_File_Path": [
+      "CA03__Chrontel__Two__3.0.xml",
+      "CN13_P2__SPL__CableMatters__0.xml",
+      "P45__Belkin__QC4+__0.xml",
+      "DRP01__TrySrc__Surface__3.xml"
+    ],
+    "Testcases_Name": [
+      "TD.PD.LL3.E3 GoodCRC Compatibility with PD2"
+    ],
+    "Table_1_Data_Header": [
+      "Total",
+      "PASS",
+      "FAIL",
+      "PASS Rate(%)",
+      "INCOMPLETE",
+      "NA",
+      "WARNING",
+      "NOT_SELECTED",
+      "ABORTED",
+      "NOT_EXECUTED"
+      
+    ],
+    "Table_2_Data_Header": [
+      "MOI Name",
+      "Total",
+      "PASS",
+      "FAIL",
+      "PASS Rate(%)", 
+      "INCOMPLETE",
+      "NA",
+      "WARNING",
+      "NOT_SELECTED",
+      "ABORTED",
+      "NOT_EXECUTED"
+     
+    ],
+    "Table_3_Data_Header": [
+      "Sl No",
+      "Test ID",
+      "Test Name",
+      "Test Result"
+    ],
+    "Table_4_Data_Header": [
+      "Test Status",
+      "Test Description"
+    ],
+    "Cable_Type_Alternative_Data": {
+      "GRL-SPL Test Cable 1": "GRL_SPL_CABLE_1",
+      "GRL-SPL Test Cable 2": "GRL_SPL_CABLE_2",
+      "USB-C STD Test Cable 1": "TypeC_Cable_1",
+      "USB-C STD Test Cable 2": "TypeC_Cable_2",
+      "Captive Cable": "CAPTIVE_CABLE",
+      "No Test Cable": "NO_CABLE"
+    },
+    "Report_Data_Management_Header": [
+      "Run No.",
+      "Folder Name",
+      "Size",
+      "Creation Time",
+      "Delete",
+      "Download"
+    ],
+    "Report_Data_Management_Vif_File_Path":
+      "CA03__Chrontel__Two__3.0.xml",
+    "Report_Data_Testcases_Name": [
+      "TD.PD.LL3.E3 GoodCRC Compatibility with PD2"
+    ],
+     "Report_Vif_File_Path" : "DRP16__DRPonly__Realtek__3.xml"
+  }
+}

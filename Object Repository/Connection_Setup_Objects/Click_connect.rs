@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_connect</name>
+   <tag></tag>
+   <elementGuidId>154435ac-15ea-4ee1-bd9d-75a204a22055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;csConnectBtn&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;csConnectBtn&quot;]</value>
+      <webElementGuid>299f1e33-3ff0-437f-a506-dd9c5a78fda4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

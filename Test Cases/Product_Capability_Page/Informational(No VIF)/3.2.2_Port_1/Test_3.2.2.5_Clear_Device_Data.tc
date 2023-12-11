@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will Verify Clear Device data Functionality </description>
+   <name>Test_3.2.2.5_Clear_Device_Data</name>
+   <tag>Product_Capability(Informational_Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>dc3796fc-b7ac-4c80-a072-18596e4fc04e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,7 @@
+{
+       "COM_Port":"COM6",
+       
+       "Port_List":["Port1","Port2","Port3","Port4","Port5"], 
+       
+       "summary_reports_name":"FivePort"   
+}

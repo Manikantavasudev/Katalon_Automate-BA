@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will verify MFI Charger Tests MOI  functionality for all the Dut</description>
+   <name>Test_4.1.1.15_MFi_Charger_Tests</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>419f0904-cfbb-40de-b4cc-9cfead2cda53</testCaseGuid>
+</TestCaseEntity>

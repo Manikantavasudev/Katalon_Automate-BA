@@ -1,0 +1,88 @@
+{
+  "option_page_data": {
+    "App_Mode_Locator": "//div[@aria-labelledby='opConfigControllerConfigureAppModeComboBox']/a",
+    "DP_AUX_Sniffer_Locator": "//div[@aria-labelledby='opConfigControllerConfigureDpAuxSnifferComboBox']/a",
+    "Port_Type_Locator": "//div[@aria-labelledby='opConfigControllerConfigurePortTypeComboBox']/a",
+    "Controller_Mode_Locator": "//div[@aria-labelledby='opConfigControllerConfigureControllerModeComboBox']/a",
+    "Test_Cable_Type_Locator": "//div[@aria-labelledby='opConfigControllerConfigureTestCableTypeComboBox']/a",
+    "PD_Spec_Type_Locator": "//div[@aria-labelledby='opConfigControllerConfigurePdSpecTypeComboBox']/a",
+    "Cable_Emulation_Locator": "//div[@aria-labelledby='opConfigControllerConfigureCableEmulationComboBox']/a",
+    "Rp_Level_Locator": "//div[@aria-labelledby='opConfigControllerConfigureRpLevelComboBox']/a",
+    "App_Mode_Drpdwn": [
+      "CTS",
+      "DP AUX"
+    ],
+    "DP_AUX_Sniffer_Drpdwn": [
+      "DP Sink side",
+      "DP Source side"
+    ],
+    "Port_Type_Drpdwn": [
+      "Port1",
+      "Port2"
+    ],
+    "Controller_Mode_Drpdwn": [
+      "UFP/Sink",
+      "DFP/Source",
+      "DRP",
+      "Cable Tester"
+    ],
+    "Test_Cable_Type_Drpdwn": [
+      "GRL-SPL Test Cable 1",
+      "GRL-SPL Test Cable 2",
+      "USB-C STD Test Cable 1",
+      "USB-C STD Test Cable 2",
+      "Captive Cable",
+      "No Cable ( For Cable Testing )",
+      "GRL-SPL EPR Test Cable"
+    ],
+    "PD_Spec_Type_Drpdwn": [
+      "Spec Rev2",
+      "Spec Rev3"
+    
+    ],
+    "Cable_Emulation_Drpdwn": [
+      "Ra in CC1",
+      "Ra in CC2",
+      "Ra in Both CC Lines",
+      "Remove Ra in both CC line"
+    ],
+    "Rp_Level_Drpdwn": [
+      "Rp 900mA",
+      "Rp 1.5A",
+      "Rp 3A"
+    ],
+    "Sop_Type_Locator": "//div[@aria-labelledby='opConfigControllerSendMessageSopTypeComboBox']/a",
+    "Message_Type_Locator": "//div[@aria-labelledby='opConfigControllerSendMessageMessageTypeComboBox']/a",
+    "Sop_Type_Drpdwn": [
+      "SOP",
+      "SOP1",
+      "SOP2"
+    ],
+    "Message_Type_Drpdwn": [
+      "VDM Disocver ID Initiator",
+      "VDM SVID Initiator",
+      "VDM Mode Initiator",
+      "VDM Enter Mode Initiator",
+      "VDM Exit Mode Initiator",
+      "Data Role Swap",
+      "Power Role Swap",
+      "Vconn Swap",
+      "Hard Reset",
+      "Cable Reset",
+      "Soft Reset",
+      "Get Sink capability",
+      "Get Source capability",
+      "BIST Carrier Mode2",
+      "Ping",
+      "Get Source Cap Extended",
+      "Get_Status",
+      "Get_PPS Status",
+      "BIST Test Data",
+      "Get_Manufacturer Info"
+    ],
+    "Cable_Type_Locator":"//div[@aria-labelledby='opCableIRDropCalibrationCableTypeComboBox']/a",
+    "Cable_Type_Drpdwn":["GRL-SPL test cable 1","GRL-SPL test cable 2","USB-C STD test cable 1","USB-C STD test cable 2"],
+    "Cable_Calibration_Tableheader_Locator":"(//table[@id='vif-table'])[2]/thead/tr/th",
+    "Cable_Calibration_Tabledata_Locator":"(//table[@id='vif-table'])[2]/tbody/tr/td"
+  }
+}

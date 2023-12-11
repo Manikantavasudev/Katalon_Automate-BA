@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CLick_stop</name>
+   <tag></tag>
+   <elementGuidId>5974f2ea-39a0-4317-83a6-8d97c746778e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;opConfigControllerConfigureStopBtn&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;opConfigControllerConfigureStopBtn&quot;]</value>
+      <webElementGuid>2f708650-3309-47ce-a07b-08bb395a714e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will Verify Report Current Dut Report button and its Functionality</description>
+   <name>Test_6.5_Download_Current_DUT_Report</name>
+   <tag>Report</tag>
+   <comment></comment>
+   <testCaseGuid>0752bb8c-5523-4db7-9448-f5b2f73c385a</testCaseGuid>
+   <variable>
+      <defaultValue>'GRL_REPORT'</defaultValue>
+      <description></description>
+      <id>1fdbbb36-5444-4363-a306-d708abe13db6</id>
+      <masked>false</masked>
+      <name>Project_Name</name>
+   </variable>
+</TestCaseEntity>

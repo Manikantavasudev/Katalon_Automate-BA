@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will check Project Name Editbox and Compliance Mode and Informational Mode(NO VIF) radio button and VIF Operational data Label and Port1 Label and Cabel Selection Label and Cabel Selection dropdownlist and Help icon Availability</description>
+   <name>Test_3.1_Compliance_Mode</name>
+   <tag>Product_Capability(Compliance Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>8683fb4f-fdcc-455e-a7de-d946d13cbf8d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Scan Network_loading</name>
+   <tag></tag>
+   <elementGuidId>36023a0a-2458-4804-a4e5-2d60072fc8ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;css-ihpzsd-style-Loader&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1hg60gw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;css-ihpzsd-style-Loader&quot;]</value>
+      <webElementGuid>645bfb41-8f49-4624-af2d-a1b7dae87e1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>353062f6-77c9-4f69-9bc5-5d0713cb6d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>c5b1c4e1-e492-4059-af9e-5502b79b93f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

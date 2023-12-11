@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_incomplete_icon_background_clr</name>
+   <tag></tag>
+   <elementGuidId>3c4485da-a67b-4ac6-953b-44ce93d6ad54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='tcFilterSelectionIncompleteBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='tcFilterSelectionIncompleteBtn']</value>
+   </webElementProperties>
+</WebElementEntity>

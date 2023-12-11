@@ -1,0 +1,215 @@
+{
+   "tc_moi_data":{
+      "TC_Quick_Charger_3_Moi_Name":"Quick Charger 3.0 Tests-v1.4",
+      "QC3_Testcase_Name":"QC_LEGACY_Shorting",
+      "QC3_Qc_2_3_Dut_Type_Drpdwn":[
+         "QC2",
+         "QC3",
+         "QC3Plus",
+         "QC4Plus"
+      ],
+      "QC3_Connector_Type_Drpdwn":[
+         "TypeA_TypeC",
+         "TypeC_TypeC"
+      ],
+      "QC3_Connector_Type_Cable_Drpdwn":[
+         "Spl_Emarker_Cable",
+         "Standard_Cable"
+      ],
+      "QC3_Ports_Drpdwn":[
+         "Single_Port",
+         "Two_Port"
+      ],
+      "QC3_PD_Support_Drpdwn":[
+         "Non-PD",
+         "PD"
+      ],
+      "QC3_Qc_Dut_Type_Drpdwn":[
+         "Power_Adaptor",
+         "Power_bank",
+         "Car_Charger"
+      ],
+      "QC3_5V_Max_Current_Val":[
+         5,
+         50
+      ],
+      "QC3_9V_Max_Current_Val":[
+         9,
+         50
+      ],
+      "QC3_12V_Max_Current_Val":[
+         12,
+         50
+      ],
+      "QC3_20V_Max_Current_Val":[
+         20,
+         50
+      ],
+      "QC3_Dut_Rated_Power_Val":[
+         18,
+         50
+      ],
+      "TC_Quick_Charger_4_Moi_Name":"Quick Charge 4 Tests-v1.0",
+      "QC4_Testcase_Name":"QC4.TID.1 Class A Adapter",
+      "QC4_Room_Temprature_Val":[
+         50,
+         24
+      ],
+      "QC4_Dut_Type_Drpdwn":[
+         "QC4",
+         "QC4Plus",
+         "QC5"
+      ],
+      "TC_Power_Delivery_3_Moi_Name":"Power Delivery 3.0 Tests-v1.19",
+      "Power_Delivery_Testcase_Name":"TD.PD.LL3.E1 GoodCRC Specification Revision compatibility",
+      "TC_PD2_Communication_Engine_Tests":"PD2 Communication Engine Tests-v1.09",
+      "PD2_Communication_Testcase_Name":"TDA.1.1.1.1.1 CABLE PHY TX EYE",
+      "PD2_Communication_Noise_Type_Drpdwn":[
+         "Two Tone Noise",
+         "Square Wave Noise"
+      ],
+      "PD2_Communication_Vconn_Type_Drpdwn":[
+         "_5_75V",
+         "_2_75V",
+         "_4_25V",
+         "_4_75V"
+      ],
+      "TC_PD2_Deterministic_Tests":"PD2 Deterministic Tests-v1.14",
+      "PD2_Deterministic_Testcase_Name":"TD.PD.VDMU.E1 Fields Checks Discover Identity",
+      "PD2_Deterministic_Vconn_Type_Drpdwn":[
+         "_2_75V",
+         "_5_75V"
+      ],
+      "TC_Source_Power_Tests_Moi_Name":"Source Power Tests-v0.74",
+      "Source_Testcase_Name":"SPT.1 Load Test",
+      "Source_Power_Port_Type_Drpdwn":[
+         "Single_Port",
+         "Two_Port"
+      ],
+      "TC_PD_Merged_Tests_Beta_Moi_Name":"USB Power Delivery Compliance Test Specification-v1.4 V2 OR",
+      "PD_Merged_Testcase_Name":"TEST.PD.PHY.ALL.1 Transmit Bit Rate and the Drift",
+      "PD_Merged_Noise_Type_Drpdwn":[
+         "Two Tone Noise",
+         "Square Wave Noise"
+      ],
+      "TC_Thunderbolt_Power_Tests_Moi_Name":"Thunderbolt Power Tests-Rev1.5 Ver0.9",
+      "Thunderbolt_Testcase_Name":"TBT.2.1 Power Capacity Host",
+      "Thunderbolt_Number_of_Ports_Drpdwn":[
+         "Single_Port",
+         "Two_Port"
+      ],
+      "Thunderbolt_Powered_Type_Drpdwn":[
+         "Self_Powered",
+         "Bus_Powered"
+      ],
+      "Thunderbolt_Device_Type_Drpdwn":[
+         "Host",
+         "Device",
+         "",
+         ""
+      ],
+      "Thunderbolt_TBT_Version_Drpdwn":[
+         "",
+         "",
+         "TBT_3",
+         "TBT_4"
+      ],
+      "Thunderbolt_Stress_Test_Timer":[
+         50,
+         25
+      ],
+      "TC_DisplayPort_Alternate_Mode_Moi_Name":"DisplayPort Alternate Mode Tests-v4",
+      "DisplayPort_Alternate_Testcase_Name":"TC.10.2.1 Enter Mode ACK Response",
+      "DisplayPort_DP_Device_Type_Drpdwn":[
+         "DP_Source",
+         "DP_Sink"
+      ],
+      "DisplayPort_DP_Device_Capability_Drpdwn":[
+         "UFP_Source",
+         "UFP_Sink",
+         "DFP_Source",
+         "DFP_Sink"
+      ],
+      "DisplayPort_DP_Sink_Type_Drpdwn":[
+         "TypeC_DP_Adaptor",
+         "TypeC_Non_DP_Adaptor"
+      ],
+      "TC_BC12_DCP_Sink_Tests_Moi_Name":"BC1.2 DCP Sink Tests",
+      "BC12_Testcase_Name":"QC.BC.SNK.1 Initial Power-up Test - Weak Battery ",
+      "BC12_Secondary_Detection_Drpdwn":[
+         "Implemented",
+         "Not_Implemented"
+      ],
+      "BC12_Maximum_Current_Val":[
+         5,
+         0
+      ],
+      "TC_MFi_Charger_Tests_Moi_Name":"MFi Charger Tests-v1.0",
+      "MFi_Charger_Testcase_Name":"MFi.TD.4.9.1 Voltage drop between transition test",
+      "MFi_Charger_Eload_Channel_Drpdown":[
+         "1",
+         "2",
+         "3",
+         "4"
+      ],
+      "MFI_Charger_Tooltip_Info":"Please select this option when UUT connected with Lightning cable",
+      "MFI_Charger_Vif_File_Path":"P45__Belkin__QC4+__0.xml",
+     
+      
+      "TC_QC3_Plus_Moi_Name":"QC3+ Tests-v1.2",
+      "QC3_Plus_Testcase_Name":"QC3Plus.TD.1.QC3+ Detection Test",
+      "TC_USB_C_Functional_Moi_Name":"USB-C Functional Tests-v0.82",
+      "USB_C_Functional_Testcase_Name":"TD.4.11.2 Sink Dead Battery Test",
+      "USB_C_Device_Url_Val":"http://192.168.255.5:5324",
+      "Filter_Section_Testcases":[
+         "TD.PD.VNDI3.E11 PR Swap Sink",
+         "TD.PD.LL.E1 GoodCRC Timing",
+         "QC.BC.SNK.1 Initial Power-up Test - Weak Battery "
+      ],
+      "expected_moi_list":[
+         "Power Delivery 3.0 Tests",
+         "PD2 Communication Engine Tests",
+         "PD2 Deterministic Tests",
+         "USB-C Functional Tests",
+         "Source Power Tests",
+         "USB Power Delivery Compliance Test Specification",
+         "Quick Charger 3.0 Tests",
+         "Quick Charge 4 Tests",
+         "Thunderbolt Power Tests",
+         "DisplayPort Alternate Mode Tests",
+         "BC1.2 DCP Sink Tests",
+         "MFi Charger Tests",
+         "QC3+ Tests"
+      ],
+      "remove_subtest_for_count":[
+         "QC_LEGACY_Shorting",
+         "QC_LEGACY_HVDCP",
+         "QC_LEGACY_PD_Req",
+         "QC_LEGACY_PD_Removal",
+         "QC_LEGACY_PD_Phy_Err_Rej",
+         "QC_LEGACY_PD_Req_Reg",
+         "QC_LEGACY_Trans",
+         "QC_LEGACY_Continuous_mode",
+         "QC_LEGACY_Pwr_pf",
+         "QC_LEGACY_USBPD_Trans",
+         "PDMER_PHY_TEST_ALL_UUT",
+         "PDMER_PHY_TEST_SRC_SNK_CAP_UUT",
+         "PDMER_PROT_TEST_ALL_PD2_PD3_Mode",
+         "PDMER_PROT_TEST_ALL_PD3_Mode",
+         "PDMER_PROT_TEST_SNK_SRC_CAP_PD3_Mode",
+         "PDMER_PROT_TEST_SRC_CAP_PD2_PD3_Mode",
+         "PDMER_PROT_TEST_SRC_CAP_PD3_Mode",
+         "PDMER_PROT_TEST_SNK_CAP_PD2_PD3_Mode",
+         "PDMER_PROT_TEST_SNK_CAP_PD3_Mode",
+         "PDMER_PROT_VDM_SRC_CAP_PD2_PD3",
+         "PDMER_PROT_VDM_SNK_CAP_PD2_PD3",
+         "PDMER_PROT_VDM_CABLE_PD2_PD3",
+         "PDMER_PROT_VDM_CABLE_PD3",
+         "PDMER_PROT_PS_SRC_CAP_UUT_PD2_PD3",
+         "PDMER_PROT_PS_SNK_CAP_UUT_PD2_PD3",
+         "PDMER_EPR_SRC",
+         "PDMER_EPR_SNK"
+      ],
+      "Filter_Section_Vif_File_Path":"DRP16__DRPonly__Realtek__3.xml"
+   }
+}

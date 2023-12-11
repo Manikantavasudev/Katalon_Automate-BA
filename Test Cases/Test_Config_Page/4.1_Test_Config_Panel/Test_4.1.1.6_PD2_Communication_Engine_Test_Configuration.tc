@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will check PD2 Communication Engine Tests MOI Functionality for all the dut</description>
+   <name>Test_4.1.1.6_PD2_Communication_Engine_Test_Configuration</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>5a62997d-50a6-425a-9aae-a063a49d408f</testCaseGuid>
+   <variable>
+      <defaultValue>'1. All the Communication Engine Cable tests need to be tested using VCONN voltage 2.75V , 5.75V\n2. TDA 1.1.1.1.1 CABLE PHY TX EYE test need to be tested using VCONN voltage 2.75V , 4.25V , 5.75V'</defaultValue>
+      <description></description>
+      <id>afe7ef58-7d82-4133-86bc-43d872a8d92f</id>
+      <masked>false</masked>
+      <name>vconn_tooltip_icon</name>
+   </variable>
+</TestCaseEntity>

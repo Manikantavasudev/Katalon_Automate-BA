@@ -1,0 +1,25 @@
+{
+   "Expand_Test_List":{
+      "Top":"C2 Test Cases",
+      "Tree_Switcher_Start01":{
+         "Tree_Switcher_1":"USB Power Delivery Compliance Test Specification",
+         "Tree_Sub_Switcher_1_01":"PDMER_PHY_TEST_ALL_UUT",
+         "Tree_Sub_Switcher_1_14":"PDMER_PROT_PS_SRC_CAP_UUT_PD2_PD3",
+         "Tree_Sub_Switcher_1_15":"PDMER_PROT_PS_SNK_CAP_UUT_PD2_PD3"
+      },
+      "Tree_Switcher_Start02":{
+         "Tree_Switcher_2":"PD2 Communication Engine Tests",
+         "Tree_Sub_Switcher_2_01":"TDA.2.1.1.1 BMC PHY TX EYE",
+         "Tree_Sub_Switcher_2_02":"TDA.2.1.1.2 BMC PHY TX BIT",
+         "Tree_Sub_Switcher_2_03":"TDA.2.1.2.2 BMC PHY RX INT REJ",
+         "Tree_Sub_Switcher_2_04":"TDA.2.1.2.1 BMC PHY RX BUSIDL",
+         "Tree_Sub_Switcher_2_17":"TDA.2.3.2.1 POW SRC TRANS P PC"
+      },
+      "Tree_Switcher_Start04":{
+         "Tree_Switcher_4":"USB-C Functional Tests",
+         "Tree_Sub_Switcher_4_02":"TD.4.1.1 Initial Voltage Test",
+         "Tree_Sub_Switcher_4_37":"TD.4.7.1 Try SNK DRP Connect Source Test",
+         "Tree_Sub_Switcher_4_38":"TD.4.7.2 Try SNK DRP Connect DRP Test"
+      }
+   }
+}

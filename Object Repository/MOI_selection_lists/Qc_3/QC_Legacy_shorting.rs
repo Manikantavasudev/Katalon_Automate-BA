@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>QC_Legacy_shorting</name>
+   <tag></tag>
+   <elementGuidId>e91a69e3-5aca-4b15-b98b-f7bb21ad3fa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;QC_LEGACY_Shorting&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;QC_LEGACY_Shorting&quot;]</value>
+      <webElementGuid>179b235f-c064-45c2-8fef-41bef9e9d8fd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

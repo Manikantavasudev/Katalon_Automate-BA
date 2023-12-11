@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enable_Port4_Toggle</name>
+   <tag></tag>
+   <elementGuidId>6d6fd53b-7fbf-48f8-b663-41482fbac4d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div/div[@id=&quot;opFivePortTestingTab4EnablePortToggleSwitch&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div/div[@id=&quot;opFivePortTestingTab4EnablePortToggleSwitch&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

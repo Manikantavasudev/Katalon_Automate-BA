@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EPR_SRC</name>
+   <tag></tag>
+   <elementGuidId>33f0da10-5f26-46f8-ad07-6749ed9b613e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title=&quot;PDMER_EPR_SRC&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title=&quot;PDMER_EPR_SRC&quot;]</value>
+      <webElementGuid>497f9439-fa31-4520-818d-93a58b5cde17</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

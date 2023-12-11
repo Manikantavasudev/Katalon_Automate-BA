@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Please enterselect C2 address_rc-sele_72428c</name>
+   <tag></tag>
+   <elementGuidId>91d01bcf-2f9c-4466-89d1-7d8fffd6cc9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@class=&quot;rc-select-search__field&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>https://docs.google.com/spreadsheets/d/1XAAkvQRFMoRtz68tDfjlriyFGXxkTb76TpfEbk85OQY/edit?usp=sharing</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.rc-select-search__field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@class=&quot;rc-select-search__field&quot;]</value>
+      <webElementGuid>4c89d787-1f6b-471d-af25-619b9df28c58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='192.168.4.232']</value>
+      <webElementGuid>67b8c551-cc68-4d19-a36a-203de5854fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[4]/div/div/div/ul/li/div/input</value>
+      <webElementGuid>3c6818fb-96e8-46d0-9e24-afbfac9790fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>97dc2c1e-10f2-4618-b6f0-332777a7cdcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

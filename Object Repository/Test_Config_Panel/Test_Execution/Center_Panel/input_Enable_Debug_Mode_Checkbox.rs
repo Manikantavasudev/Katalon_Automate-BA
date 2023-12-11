@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Enable_Debug_Mode_Checkbox</name>
+   <tag></tag>
+   <elementGuidId>52fb1c50-d223-407b-986a-06dad4168514</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@id='tcTimeoutEnableDebugModeCheckBox'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@id='tcTimeoutEnableDebugModeCheckBox'])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

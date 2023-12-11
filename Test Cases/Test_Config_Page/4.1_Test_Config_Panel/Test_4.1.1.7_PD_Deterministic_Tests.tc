@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will check PD Deterministic Tests MOI Functionality for all the dut</description>
+   <name>Test_4.1.1.7_PD_Deterministic_Tests</name>
+   <tag>Test_Config</tag>
+   <comment></comment>
+   <testCaseGuid>b58eba89-6f96-485a-98fd-2f76eff2fb48</testCaseGuid>
+   <variable>
+      <defaultValue>'Deterministic tests need to be tested using VCONN voltage 2.75V , 5.75V'</defaultValue>
+      <description></description>
+      <id>4065ec9f-6b5a-4764-bdc2-b8bf2255dbe7</id>
+      <masked>false</masked>
+      <name>pd2_tooltip_info</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will Verify Get Device data Functionality and it wil verify the xml file data with Ui data</description>
+   <name>Test_3.2.2.4_Get_Device_Data</name>
+   <tag>Product_Capability(Informational_Mode)</tag>
+   <comment></comment>
+   <testCaseGuid>eb52cc18-94d9-4eab-9db5-a8a5f74f5f5b</testCaseGuid>
+</TestCaseEntity>
