@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>This test case will check the second instance not able to connect to C2 device.</description>
-   <name>Test_1.3_C2_Browser_Application_Dual_Instance_Check</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c04eea01-9d3e-4db4-8916-a80e060446cb</testCaseGuid>
-</TestCaseEntity>
